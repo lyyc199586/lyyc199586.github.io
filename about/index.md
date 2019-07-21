@@ -1,6 +1,10 @@
 # About
-> Edited: July 21, 2019
+---
+Posted: July 21, 2019
 
+Edited: July 21, 2019
+
+---
 ## Me
 My name is Yangyuanchen Liu ([Google Scholar]()). I am currently a master candidate, majoring in Mechanical Engineering at Shanghai Jiao Tong University.
 
