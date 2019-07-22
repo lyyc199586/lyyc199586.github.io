@@ -11,7 +11,9 @@
 
 - Email: [lyyc199586@sjtu.edu.cn](mailto:lyyc199586@sjtu.edu.cn)
 - Phone: (+86) 152-0192-0867
+
 ---
+
 ## EDUCATION
 ### `Sept. 2017 - Present`: UM-SJTU Joint Institute, **Shanghai Jiao Tong University**,  Shanghai, China
 _Mater candidate_, **Mechanical Engineering**
@@ -27,6 +29,7 @@ _Bachelor_, **Material Science and Engineering**
 - Rank 1/52
 - GPA: 3.83
 - National sholarship (2 times)
+
 ---
 ## RESEARCH
 ### `Sept. 2017 - Present`: Computational Mechanics
