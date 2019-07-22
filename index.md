@@ -1,4 +1,3 @@
-# Sharing Room
 ## Blog of Yangyuanchen Liu
 * [**About**](./about/index.md)
 
