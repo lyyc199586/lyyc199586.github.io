@@ -55,7 +55,7 @@ _Bachelor_, **Material Science and Engineering**
   - Markdown
 
 - English
-  - GRE Genral: 325+4 (V155, Q170, AW4)
+  - GRE General: 325+4 (V155, Q170, AW4)
   - TOEFL: 100 (R29, L25, S23, W23)
   - IELTS: 7.0 (R7, L8, S6, W6)
 
