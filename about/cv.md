@@ -36,9 +36,11 @@ _Bachelor_, **Material Science and Engineering**
 
 ---
 ## AWARDS
-### `Octo. 2016`: National Scholarship, _Rank 1/52_
-### `Octo. 2015`: Dongfeng Automobile Scholarship, _Rank 2/296_
-### `Octo. 2014`: National Scholarship, _Rank 1/296_
+`Octo. 2016`: National Scholarship, _Rank 1/52_
+
+`Octo. 2015`: Dongfeng Automobile Scholarship, _Rank 2/296_
+
+`Octo. 2014`: National Scholarship, _Rank 1/296_
 
 ---
 ## SKILLS
@@ -48,7 +50,7 @@ _Bachelor_, **Material Science and Engineering**
   - C++
 
 - Editing
-  - $\LaTeX$
+  - LaTeX
   - Microsoft Office
   - Markdown
 
