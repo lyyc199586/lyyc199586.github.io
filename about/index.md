@@ -1,8 +1,8 @@
 # About
 ---
-Posted: July 21, 2019
+`Posted:` July 21, 2019
 
-Edited: July 21, 2019
+`Edited:` July 21, 2019
 
 ---
 ## Me
