@@ -50,7 +50,10 @@ _Bachelor_, **Material Science and Engineering**
   - C++
 
 - Editing
-  - {% raw %}$\LaTeX${% endraw %}
+  - ```latex 
+    {% raw %}$\LaTeX${% endraw %}
+    ```
+    
   - Microsoft Office
   - Markdown
 
