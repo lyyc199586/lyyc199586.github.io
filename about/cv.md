@@ -50,7 +50,7 @@ _Bachelor_, **Material Science and Engineering**
   - C++
 
 - Editing
-  - LaTeX
+  - $\LaTeX$
   - Microsoft Office
   - Markdown
 
