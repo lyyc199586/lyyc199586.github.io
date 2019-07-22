@@ -14,4 +14,4 @@ Here is my [CV](./cv.md) (last update: 2019-07-21).
 I will share academic and technical notes on this website.
 
 ## Contact
-The best way to reach me is via email: _lyyc199586@sjtu.edu.cn_
+The best way to reach me is via email: [_lyyc199586@sjtu.edu.cn_](mailto:lyyc199586@sjtu.edu.cn)
