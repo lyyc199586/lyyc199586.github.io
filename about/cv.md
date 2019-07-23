@@ -70,7 +70,6 @@ _Bachelor_, **Material Science and Engineering**
 
 - Prepare and test photocatalytic property of Ce 3+ - doped titanium dioxide nanotubes
 
-
 ---
 
 ## AWARDS
@@ -88,7 +87,7 @@ _Bachelor_, **Material Science and Engineering**
 - Coding
   - Languages: MATLAB > Python > C++
   - Data processing
-  - Data visulization 
+  - Data visulization
 
 - Editing
   - $\LaTeX$
