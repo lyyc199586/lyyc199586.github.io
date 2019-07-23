@@ -14,10 +14,10 @@ I am a master candidate majoring Mechanical Engineering at [UM-SJTU Joint Instit
 
     LLE is an unsupervised learning algorithm that computes low-dimensional, neighborhood-preserving embeddings of high-dimensional inputs.
 
-* `July. 21, 2019` **>>** [in progress][Blog building](./_posts/20190721.md)
+* `July. 21, 2019` **>>** [in progress][Blog building](./posts/20190721.md)
 
     All the tools, techniques and method I used to built this blog will be recorded here.
 
-* `Mar. 30, 2019` **>>** [The 2nd International Conference on Modeling in Mechanics and Materials](./_posts/20190330.md)
+* `Mar. 30, 2019` **>>** [The 2nd International Conference on Modeling in Mechanics and Materials](./posts/20190330.md)
 
     The 2nd International Conference on Modeling in Mechanics and Materials was held at Suzhou, China on March 29-31, 2019.
