@@ -55,7 +55,7 @@ _Bachelor_, **Material Science and Engineering**
 
 #### `Nov. 2017 - May. 2018`: Phase field simulation for materials
 
-- Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation.
+- Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation
 
 ### Undergraduate research
 
@@ -89,7 +89,7 @@ _Bachelor_, **Material Science and Engineering**
 - Coding
   - Languages: MATLAB > Python > C++
   - Data processing
-  - Data visulization
+  - Data visualization
 
 - Editing
   - $\LaTeX$
@@ -104,3 +104,19 @@ _Bachelor_, **Material Science and Engineering**
 - FEM Analysis
   - CATIA
   - Abaqus
+
+---
+
+## COURSES
+
+- Mathemetics
+  - Method of Applied Math
+  - Numerical Analysis
+
+- Mechanics
+  - Foundation of Solid Mechanics
+  - Fundamentals of Solidification
+
+- Engineering
+  - Mechanical Vibration
+  - Wave Propagation in Elastic Solids
