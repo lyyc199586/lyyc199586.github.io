@@ -29,7 +29,7 @@ _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://u
 - GPA: 3.71/4.0
 - All courses and activities are held in English
 
-### `Sept. 2013 - July 2017`: College of Material Science and Engineering, **Jilin University**, Changchun, China
+### `Sept. 2013 - July. 2017`: College of Material Science and Engineering, **Jilin University**, Changchun, China
 
 _Bachelor_, **Material Science and Engineering**
 
@@ -48,27 +48,27 @@ _Bachelor_, **Material Science and Engineering**
 - Develop a finite-element based phase field program
 - Develop a phase field model with a tension - compression discriminant
 
-#### `May 2019 - Present`: Data-driven multiscale simulaitons of materials
+#### `May. 2019 - Present`: Data-driven multiscale simulaitons of materials
 
 - Develop a homogeniation-based phase field approach to fracture
 - Propose a manifold learning approach for multiscale phase field evolution for fracture
 
-#### `Nov. 2017 - May 2018`: Phase field simulation for materials
+#### `Nov. 2017 - May. 2018`: Phase field simulation for materials
 
 - Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation.
 
 ### Undergraduate research
 
-#### `March 2017 - June 2017`: Dynamic phase field approach to fracture
+#### `Mar. 2017 - June. 2017`: Dynamic phase field approach to fracture
 
 - Learn and develop a finite-element based dynamic phase field program
 
-#### `Nov. 2015 - March 2016`: Undergraduate casting technology design contest
+#### `Nov. 2015 - Mar. 2016`: Undergraduate casting technology design contest
 
 - Model, design and simulate a nodular iron casting
 - National 3rd prize
 
-#### `May 2015 - March 2016`: National undergraduate innovation program
+#### `May. 2015 - Mar. 2016`: National undergraduate innovation program
 
 - Prepare and test photocatalytic property of Ce 3+ - doped titanium dioxide nanotubes
 
