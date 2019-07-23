@@ -1,12 +1,14 @@
 # LIU Yangyuanchen
+
 ---
 `Posted:` July 21, 2019
 
 `Edited:` July 22, 2019
 
-> [download resume](./resume.pdf)
+> [download resume](./resume.pdf) (last update: 2018-10-21)
 
 ---
+
 ## CONTACT
 
 - Email: [lyyc199586@sjtu.edu.cn](mailto:lyyc199586@sjtu.edu.cn)
@@ -15,7 +17,9 @@
 ---
 
 ## EDUCATION
+
 ### `Sept. 2017 - Present`: UM-SJTU Joint Institute, **Shanghai Jiao Tong University**,  Shanghai, China
+
 _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://umji.sjtu.edu.cn/~yxshen/En/Content.php?pid=6&cid=122)
 
 - University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two permier univeristies, the Univeristy of Michigan and Shanghai Jiao Tong University
@@ -24,33 +28,53 @@ _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://u
 - All courses and activities are held in English
 
 ### `Sept. 2013 - July 2017`: College of Material Science and Engineering, **Jilin University**, Changchun, China
+
 _Bachelor_, **Material Science and Engineering**
 
 - Rank 1/52
-- GPA: 3.83
+- GPA: 92.52/100
 - National sholarship (2 times)
 
 ---
+
 ## RESEARCH
-### `Sept. 2017 - Present`: Computational Mechanics
-**Phase field approach to fracture**
 
-1. Develope a finite-element based phase field program 
-2. Develop a phase field model with a tension - compression discriminant
+### Graduate research
 
-**Data-driven multiscale simulaitons of materials**
+#### `Sept. 2017 - Present`: Phase field approach to fracture
 
-1. Develop a homogeniation-based phase field approach to fracture
-2. Propose a manifold learning approach for multiscale phase field evolution for fracture
+- Develop a finite-element based phase field program
+- Develop a phase field model with a tension - compression discriminant
 
-### `Nov. 2017 - May 2018`: Computational Materials
+#### `May 2019 - Present`: Data-driven multiscale simulaitons of materials
 
-**Phase field simulation for materials**
+- Develop a homogeniation-based phase field approach to fracture
+- Propose a manifold learning approach for multiscale phase field evolution for fracture
 
-1. Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation.
+#### `Nov. 2017 - May 2018`: Phase field simulation for materials
+
+- Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation.
+
+### Undergraduate research
+
+#### `March 2017 - June 2017`: Dynamic phase field approach to fracture
+
+- Learn and develop a finite-element based dynamic phase field program
+
+#### `Nov. 2015 - March 2016`: Undergraduate casting technology design contest
+
+- Model, design and simulate a nodular iron casting
+- National 3rd prize
+
+#### `May 2015 - March 2016`: National undergraduate innovation program
+
+- Prepare and test photocatalytic property of Ce 3+ - doped titanium dioxide nanotubes
+
 
 ---
+
 ## AWARDS
+
 `Octo. 2016`: National Scholarship, _Rank 1/52_
 
 `Octo. 2015`: Dongfeng Automobile Scholarship, _Rank 2/296_
@@ -58,7 +82,9 @@ _Bachelor_, **Material Science and Engineering**
 `Octo. 2014`: National Scholarship, _Rank 1/296_
 
 ---
+
 ## SKILLS
+
 - Coding
   - Languages: MATLAB > Python > C++
   - Data processing
