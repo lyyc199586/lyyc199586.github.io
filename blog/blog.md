@@ -2,7 +2,7 @@
 
 ---
 
-Edited: July 23, 2019
+Edited: July. 23, 2019
 
 ---
 

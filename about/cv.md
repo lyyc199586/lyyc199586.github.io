@@ -1,9 +1,9 @@
 # LIU Yangyuanchen
 
 ---
-`Posted:` July 21, 2019
+`Posted:` July. 21, 2019
 
-`Edited:` July 22, 2019
+`Edited:` July. 22, 2019
 
 > [download resume](./resume.pdf) (last update: 2018-10-21)
 
