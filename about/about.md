@@ -3,13 +3,13 @@
 ---
 `Posted:` July. 21, 2019
 
-`Edited:` July. 21, 2019
+`Edited:` July. 23, 2019
 
 ---
 
 ## Me
 
-My name is Yangyuanchen Liu ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Ay-D1zgAAAAJ&gmla=AJsN-F5-dAseJdtYZQPdtC6Dw6jUEEqJZEb6_RQ30WWwLHPZ7L6DBnq62dcu88FRVny5lb7V-eCHVZYjL38dzQqZvFxeCTDh96o2cfbLEGT85lnXqxlFjd0otRqciOU9sHdOltcGvCb_)). I am currently a master candidate, majoring in Mechanical Engineering at [UM-SJTU Joing Institute](http://umji.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+My name is Yangyuanchen Liu ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=Ay-D1zgAAAAJ&gmla=AJsN-F5-dAseJdtYZQPdtC6Dw6jUEEqJZEb6_RQ30WWwLHPZ7L6DBnq62dcu88FRVny5lb7V-eCHVZYjL38dzQqZvFxeCTDh96o2cfbLEGT85lnXqxlFjd0otRqciOU9sHdOltcGvCb_)). I am currently a master candidate, majoring in Mechanical Engineering at [UM-SJTU Joint Institute](http://umji.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 Current research interest:
 > Data-drvien multiscale simulations
