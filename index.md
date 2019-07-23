@@ -10,7 +10,7 @@ I am a master candidate majoring Mechanical Engineering at [UM-SJTU Joint Instit
 
 ## Recent Posts
 
-* `July. 23, 2019` **>>** [in progress][Locally linear embedding](./_posts/20190723.md)
+* `July. 23, 2019` **>>** [in progress][Locally linear embedding](./posts/20190723.md)
 
     LLE is an unsupervised learning algorithm that computes low-dimensional, neighborhood-preserving embeddings of high-dimensional inputs.
 
