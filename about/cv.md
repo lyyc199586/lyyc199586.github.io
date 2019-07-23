@@ -26,7 +26,7 @@ _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://u
 
 - University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two permier univeristies, the Univeristy of Michigan and Shanghai Jiao Tong University
 - Major courses: Methods of Applied Math, Numerical Analysis, Foundation of Solid Mechanics
-- GPA: 3.71
+- GPA: 3.71/4.0
 - All courses and activities are held in English
 
 ### `Sept. 2013 - July 2017`: College of Material Science and Engineering, **Jilin University**, Changchun, China
