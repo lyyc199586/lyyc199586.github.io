@@ -5,7 +5,7 @@
 
 `Edited:` July. 22, 2019
 
-> [download resume](./resume.pdf) (last update: 2018-10-21)
+> [download resume](./resume.pdf) (last update: 2019-07-21)
 
 ---
 
