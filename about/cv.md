@@ -13,6 +13,8 @@
 
 - Email: [lyyc199586@sjtu.edu.cn](mailto:lyyc199586@sjtu.edu.cn)
 - Phone: (+86) 152-0192-0867
+- Address: 800 Dongchuan Road, Shanghai (200240), CHINA
+- GitHub: [lyyc199586](https://github.com/lyyc199586)
 
 ---
 
