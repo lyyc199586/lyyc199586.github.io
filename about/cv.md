@@ -53,7 +53,6 @@ _Bachelor_, **Material Science and Engineering**
 | -------------------------------------- | ---------------------------------------------------- |
 | ![tension test](../pic/cv/tension.gif) | ![shear test](../pic/cv/shear.gif) |
 
-
 #### `May. 2019 - Present`: Data-driven multiscale simulations of materials
 
 - Develop a homogenization-based phase field approach to fracture
