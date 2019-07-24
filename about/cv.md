@@ -8,6 +8,7 @@
 > [download resume](./resume.pdf) (last update: 2019-07-21)
 
 ---
+[TOC]
 
 ## CONTACT
 
@@ -15,6 +16,7 @@
 - Phone: (+86) 152-0192-0867
 - Address: 800 Dongchuan Road, Shanghai (200240), CHINA
 - GitHub: [lyyc199586](https://github.com/lyyc199586)
+- Personal page: [Sharing Room](https://lyyc199586.github.io/)
 
 ---
 
@@ -120,3 +122,4 @@ _Bachelor_, **Material Science and Engineering**
 - Engineering
   - Mechanical Vibration
   - Wave Propagation in Elastic Solids
+  
