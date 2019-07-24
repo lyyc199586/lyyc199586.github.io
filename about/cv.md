@@ -8,7 +8,6 @@
 > [download resume](./resume.pdf) (last update: 2019-07-21)
 
 ---
-[TOC]
 
 ## CONTACT
 
@@ -46,6 +45,8 @@ _Bachelor_, **Material Science and Engineering**
 ### Graduate research
 
 #### `Sept. 2017 - Present`: Phase field approach to fracture
+
+![tension test](../pic/cv/tension.gif)
 
 - Develop a finite-element based phase field program
 - Develop a phase field model with a tension - compression discriminant
