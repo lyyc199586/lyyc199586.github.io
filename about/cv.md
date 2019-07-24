@@ -46,10 +46,13 @@ _Bachelor_, **Material Science and Engineering**
 
 #### `Sept. 2017 - Present`: Phase field approach to fracture
 
-![tension test](../pic/cv/tension.gif)
-
 - Develop a finite-element based phase field program
 - Develop a phase field model with a tension - compression discriminant
+
+| tension test                           | shear test                                           |
+| -------------------------------------- | ---------------------------------------------------- |
+| ![tension test](../pic/cv/tension.gif) | ![shear test](../pic/cv/shear.gif) |
+
 
 #### `May. 2019 - Present`: Data-driven multiscale simulaitons of materials
 
