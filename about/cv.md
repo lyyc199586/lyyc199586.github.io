@@ -63,6 +63,10 @@ _Bachelor_, **Material Science and Engineering**
 
 - Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation
 
+| concentration field                         | magnitude of displacement                                  |
+| ------------------------------------------- | ---------------------------------------------------------- |
+| ![c_phasefield](../pic/cv/c_phasefield.gif) | ![u_magnitude](../pic/cv/u_magnitude.gif) |
+
 ### Undergraduate research
 
 #### `Mar. 2017 - June. 2017`: Dynamic phase field approach to fracture
