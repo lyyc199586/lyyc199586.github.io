@@ -58,6 +58,12 @@ _Bachelor_, **Material Science and Engineering**
 - Develop a homogenization-based phase field approach to fracture
 - Propose a manifold learning approach for multiscale phase field evolution for fracture
 
+| 3-D manifold(1)                             | 3-D manifold(2)                             |
+| ------------------------------------------- | ------------------------------------------- |
+| ![3d_manifold1](../pic/cv/3d_manifold1.gif) | ![3d_manifold2](../pic/cv/3d_manifold2.gif) |
+
+
+
 #### `Nov. 2017 - May. 2018`: Phase field simulation for materials
 
 - Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation
