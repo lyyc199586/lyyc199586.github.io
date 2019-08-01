@@ -26,7 +26,6 @@
 _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://umji.sjtu.edu.cn/~yxshen/En/Content.php?pid=6&cid=122)
 
 - University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two permier univeristies, the Univeristy of Michigan and Shanghai Jiao Tong University
-- Major courses: Methods of Applied Math, Numerical Analysis, Foundation of Solid Mechanics
 - GPA: 3.71/4.0
 - All courses and activities are held in English
 
@@ -46,8 +45,9 @@ _Bachelor_, **Material Science and Engineering**
 
 #### `Sept. 2017 - Present`: Phase field approach to fracture
 
-- Develop a finite-element based phase field program
-- Develop a phase field model with a tension - compression discriminant
+- Develop a phase field model with a tension - compression discriminant：
+  
+  We apply the homogenization theory to construct a phase field model, which predicts reasonable crack paths to benchmarks with a well defined tension - compression discriminant.
 
 | tension test                           | shear test                                           |
 | -------------------------------------- | ---------------------------------------------------- |
@@ -55,8 +55,9 @@ _Bachelor_, **Material Science and Engineering**
 
 #### `May. 2019 - Present`: Data-driven multiscale simulations of materials
 
-- Develop a homogenization-based phase field approach to fracture
-- Propose a manifold learning approach for multiscale phase field evolution for fracture
+- Use manifold learning approach (locally linear embedding techniques) to interpolate phase field evolution for fracture:
+  
+  The offline procedure consists of two stages: (1) dataset construction with the phase field analysis for the RVE. (2) data manifold construction with the LLE. The online interpolation procedure then readily delivers the phase field evolution.
 
 | 3-D manifold(1)                             | 3-D manifold(2)                             |
 | ------------------------------------------- | ------------------------------------------- |
@@ -80,7 +81,7 @@ _Bachelor_, **Material Science and Engineering**
 
 #### `Nov. 2015 - Mar. 2016`: Undergraduate casting technology design contest
 
-- Model, design and simulate a nodular iron casting
+- Design, model and simulate a nodular iron casting
 - National 3rd prize
 
 #### `May. 2015 - Mar. 2016`: National undergraduate innovation program
@@ -99,6 +100,15 @@ _Bachelor_, **Material Science and Engineering**
 
 ---
 
+## LANGUAGE
+
+- Standard English tests
+  - GRE General: 325+4 (V155, Q170, AW4)
+  - TOEFL: 100 (R29, L25, S23, W23)
+  - IELTS: 7.0 (R7, L8, S6, W6)
+
+---
+
 ## SKILLS
 
 - Coding
@@ -110,11 +120,6 @@ _Bachelor_, **Material Science and Engineering**
   - $\LaTeX$
   - Microsoft Office
   - Markdown
-
-- English
-  - GRE General: 325+4 (V155, Q170, AW4)
-  - TOEFL: 100 (R29, L25, S23, W23)
-  - IELTS: 7.0 (R7, L8, S6, W6)
 
 - FEM Analysis
   - CATIA
