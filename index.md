@@ -10,6 +10,10 @@ I am a master candidate majoring Mechanical Engineering at [UM-SJTU Joint Instit
 
 ## Recent Posts
 
+* `Aug. 07, 2019` **>>** [FEniCS notes: Poisson equation](./posts/20190807.md)
+  
+  It is a "Hello, World!" program in FEniCS that solves following boundary-value problem.
+
 * `July. 29, 2019` **>>** [The 15th U.S. National Congress on Computational Mechanics](./posts/20190729.md)
 
     The 15th U.S. National Congress on Computational Mechanics will be held in downtown Austin from July 28 - Augest 1, 2019.
