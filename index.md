@@ -16,7 +16,7 @@ I am a master candidate majoring Mechanical Engineering at [UM-SJTU Joint Instit
 
 * `July. 29, 2019` **>>** [The 15th U.S. National Congress on Computational Mechanics](./posts/20190729.md)
 
-    The 15th U.S. National Congress on Computational Mechanics will be held in downtown Austin from July 28 - Augest 1, 2019.
+    The 15th U.S. National Congress on Computational Mechanics was held in downtown Austin from July 28 - Augest 1, 2019.
 
 * `July. 23, 2019` **>>** [in progress][Locally linear embedding](./posts/20190723.md)
 
