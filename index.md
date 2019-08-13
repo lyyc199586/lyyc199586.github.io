@@ -10,6 +10,10 @@ I am a master candidate majoring Mechanical Engineering at [UM-SJTU Joint Instit
 
 ## Recent Posts
 
+* `Aug. 13, 2019` **>>** [FEniCS notes: Deflection of a membrane](./posts/20190813.md)
+  
+  Compute the deflection $D(x,y)$ of a two-dimensional, circular membrane of radius $R$, subject to a load $p$ over the membrane. 
+
 * `Aug. 07, 2019` **>>** [FEniCS notes: Poisson equation](./posts/20190807.md)
   
   It is a "Hello, World!" program in FEniCS that solves following boundary-value problem.
