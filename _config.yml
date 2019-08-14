@@ -2,7 +2,7 @@
 
 markdown: kramdown
 #theme: minimal
-remote_theme: minima
+theme: minima
 
 title: Sharing Room
 description: Personal website📝 - blog of Yangyuanchen Liu♌
