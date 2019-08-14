@@ -1,9 +1,14 @@
+title: Sharing Room
+author: Yangyuanchen Liu
+emial: lyyc199586@sjtu.edu.cn
+description: Personal website📝 - blog of Yangyuanchen Liu♌
+
 # Build settings
 
 markdown: kramdown
 theme: minima 
 #theme: jekyll-theme-minimal
 
-title: Sharing Room
-description: Personal website📝 - blog of Yangyuanchen Liu♌
+
+
 logo: ./pic/logo.png
