@@ -1,6 +1,6 @@
 # Build settings
 
-markdown: kramdown
+#markdown: kramdown
 #theme: minimal
 theme: minimal
 
