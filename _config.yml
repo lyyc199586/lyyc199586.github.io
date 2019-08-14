@@ -1,4 +1,9 @@
-theme: jekyll-theme-minimal
+# Build settings
+
+markdown: kramdown
+#theme: minimal
+remote_theme: minima
+
 title: Sharing Room
 description: Personal website📝 - blog of Yangyuanchen Liu♌
 logo: ./pic/logo.png
