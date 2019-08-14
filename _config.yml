@@ -1,8 +1,8 @@
 # Build settings
 
 markdown: kramdown
-#theme: 
-theme: jekyll-theme-minimal
+theme: minima 
+#theme: jekyll-theme-minimal
 
 title: Sharing Room
 description: Personal website📝 - blog of Yangyuanchen Liu♌
