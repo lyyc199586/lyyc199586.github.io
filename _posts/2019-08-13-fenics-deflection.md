@@ -100,7 +100,7 @@ V = FunctionSpace(mesh, 'P', 2)
 plot(mesh)
 ```
 
-![mesh](../pic/20190813/mesh.png)
+![mesh](/pic/20190813/mesh.png)
 
 ### boundary condition
 

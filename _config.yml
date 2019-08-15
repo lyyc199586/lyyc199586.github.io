@@ -3,12 +3,43 @@ author: Yangyuanchen Liu
 emial: lyyc199586@sjtu.edu.cn
 description: Personal website📝 - blog of Yangyuanchen Liu♌
 
-# Build settings
+show_excerpts: true
 
-markdown: kramdown
+# Minima date format
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    # twitter: jekyllrb
+    github:  lyyc199586
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# Build settings
 theme: minima 
 #theme: jekyll-theme-minimal
 
+markdown: kramdown
 
-
-logo: ./pic/logo.png
+plugin:
+ - jekyll-feed
+ - jekyll-seo-tag
