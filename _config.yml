@@ -12,11 +12,14 @@ show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
 
+  disqus:
+    shortname: lyyc199586
+
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
     github:  lyyc199586
-    # rss: rss
+    rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
