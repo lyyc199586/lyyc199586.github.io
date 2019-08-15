@@ -2,6 +2,7 @@
 layout: post
 title: "FEniCS notes: Poisson equation"
 categories: note
+comments: true
 ---
 
 > See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1004.html)

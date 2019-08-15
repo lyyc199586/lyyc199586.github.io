@@ -2,6 +2,7 @@
 layout: post
 title: "Blog building"
 categories: misc
+comments: true
 ---
 
 ## Intro

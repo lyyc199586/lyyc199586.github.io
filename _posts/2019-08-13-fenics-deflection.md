@@ -2,6 +2,7 @@
 layout: post
 title: "FEniCS notes: Deflection of a membrane"
 categories: note
+comments: true
 ---
 
 > See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1005.html#ch:poisson0:membrane)
