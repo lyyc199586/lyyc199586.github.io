@@ -1,7 +1,22 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
+  <head>
+
+    <!-- setting for MathJax -->
+    <script type="text/x-mathjax-config"> 
+      MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); 
+    </script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        processEscapes: true
+      }
+    });
+    </script>
+    
+  </head>
 
   <body>
 
