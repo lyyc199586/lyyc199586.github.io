@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Curriculum Vitae"
+title: "CV"
 categories: misc
 ---
 
