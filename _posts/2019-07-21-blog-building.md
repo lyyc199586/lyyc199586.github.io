@@ -64,4 +64,4 @@ Then latex formulas are supported, for example, $\LaTeX$ .
 
 ### Comment
 
-I am using [Disqus](https://disqus.com) to comment.
+I am using [Disqus](https://disqus.com) to comment because it can be connected to Jakll easily (Notice that Disqus is blocked in China!).
