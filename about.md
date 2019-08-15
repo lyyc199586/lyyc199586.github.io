@@ -1,10 +1,7 @@
-# About
-
 ---
-`Posted:` July. 21, 2019
-
-`Edited:` July. 23, 2019
-
+layout: page
+title: About
+permalink: /about/
 ---
 
 ## Me
