@@ -13,9 +13,9 @@ All the tools, techniques and method I used to built this blog will be recorded 
 
 ## Timeline
 
-`July 21, 2019`: Sharing Room was built and pushed to [lyyc199586.github.io](https://github.com/lyyc199586/lyyc199586.github.io)
+`July. 21, 2019`: Sharing Room was built and pushed to [lyyc199586.github.io](https://github.com/lyyc199586/lyyc199586.github.io)
 
-`July 22, 2019`: add cv.md, resume.pdf to ./about, add two pages to ./blog
+`Aug. 14, 2019`: Theme was changed from minimal (offical theme of GitHub Page) to minima
 
 ---
 
@@ -32,6 +32,10 @@ Codes are edited with my favorite editor: vscode 😜
 ---
 
 ## Methods
+
+### Jakll
+
+I am using [Jakll](https://jekyllrb.com/) and [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) to generate static pages. Jakll is convenient and easy to use. The present theme I am using is _minima_, the default theme of Jakll.
 
 ### LaTeX
 
@@ -57,3 +61,7 @@ The latex codes are not originally supported by GitHub Pages, so addtional tools
 ```
 
 Then latex formulas are supported, for example, $\LaTeX$ .
+
+### Comment
+
+I am using [Disqus](https://disqus.com) to comment.
