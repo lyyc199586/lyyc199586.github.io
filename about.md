@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/about.md
+permalink: /about
 ---
 
 ## Me
@@ -15,7 +15,7 @@ Current research interest:
 >
 > Homogenization
 
-Here is my [CV](./cv.md) (last update: 2019-07-21).
+Here is my [CV](/cv/cv.md) (last update: 2019-07-21).
 
 ## This Site
 
