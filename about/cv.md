@@ -1,11 +1,10 @@
-# LIU Yangyuanchen
-
 ---
-`Posted:` July. 21, 2019
+layout: post
+title: "Curriculum Vitae"
+categories: misc
+---
 
-`Edited:` July. 22, 2019
-
-> [download resume](./resume.pdf) (last update: 2019-07-21)
+> [download resume](/about/resume.pdf) (last update: 2019-07-21)
 
 ---
 

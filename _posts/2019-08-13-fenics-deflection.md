@@ -143,14 +143,14 @@ solve(a == L, w, bc)
 plot(w, title='Deflection')
 ```
 
-![deflection](../pic/20190813/deflection.png)
+![deflection](/pic/20190813/deflection.png)
 
 ```python
 # plot load
 plot(p, title='Load', mesh=mesh)
 ```
 
-![load](../pic/20190813/load.png)
+![load](/pic/20190813/load.png)
 
 ```python
 # curve plot along x = 0 comparing p and w
@@ -167,4 +167,4 @@ plt.xlabel('$y$')
 plt.legend(['Deflection ($\\times 50$)', 'Load'], loc='upper left')
 ```
 
-![curve](../pic/20190813/curve.png)
+![curve](/pic/20190813/curve.png)

@@ -140,7 +140,7 @@ bc = DirichletBC(V, u_D, boundary)
 plot(mesh)
 ```
 
-![mesh](../pic/20190807/mesh.png)
+![mesh](/pic/20190807/mesh.png)
 
 ### Define problem and compute solution
   
@@ -161,7 +161,7 @@ plot(u)
 plot(mesh)
 ```
 
-![solution](../pic/20190807/u.png)
+![solution](/pic/20190807/u.png)
 
 ### errors
 
