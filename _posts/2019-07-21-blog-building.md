@@ -1,11 +1,7 @@
-# Blog building
-
 ---
-
-`Posted:` July. 21, 2019
-
-`Edited:` July. 23, 2019
-
+layout: post
+title: "Blog building"
+categories: misc
 ---
 
 ## Intro
@@ -19,7 +15,6 @@ All the tools, techniques and method I used to built this blog will be recorded 
 `July 21, 2019`: Sharing Room was built and pushed to [lyyc199586.github.io](https://github.com/lyyc199586/lyyc199586.github.io)
 
 `July 22, 2019`: add cv.md, resume.pdf to ./about, add two pages to ./blog
-
 
 ---
 
@@ -47,10 +42,10 @@ The latex codes are not originally supported by GitHub Pages, so addtional tools
 
 ```html
     <script type="text/x-mathjax-config"> 
-        MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); 
+      MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); 
     </script>
     <script type="text/x-mathjax-config">
-     MathJax.Hub.Config({tex2jax: {
+        MathJax.Hub.Config({tex2jax: {
           inlineMath: [ ['$','$'], ["\\(","\\)"] ],
           processEscapes: true
         }
@@ -59,4 +54,3 @@ The latex codes are not originally supported by GitHub Pages, so addtional tools
 ```
 
 Then latex formulas are supported, for example, $\LaTeX$ .
-

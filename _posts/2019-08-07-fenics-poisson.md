@@ -1,14 +1,10 @@
-# FEniCS notes: Poisson equation
-
 ---
-
-`Posted:` Aug. 7, 2019
-
-`Edited:` Aug. 8, 2019
+layout: post
+title: "FEniCS notes: Poisson equation"
+categories: note
+---
 
 > See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1004.html)
-
----
 
 ## Mathematical problem formulation
 

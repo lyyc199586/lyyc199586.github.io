@@ -1,14 +1,10 @@
-# FEniCS notes: Deflection of a membrane
-
 ---
-
-`Posted:` Aug. 13, 2019
-
-`Edited:` Aug. 13, 2019
+layout: post
+title: "FEniCS notes: Deflection of a membrane"
+categories: note
+---
 
 > See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1005.html#ch:poisson0:membrane)
-
----
 
 ## PDE
 
