@@ -1,8 +1,6 @@
-# Blog of Yangyuanchen Liu
-
-* [**Posts**](./blog/blog.md)
-
-* [**About**](./about/about.md)
+---
+layout: home
+---
 
 ## Me and this website
 
