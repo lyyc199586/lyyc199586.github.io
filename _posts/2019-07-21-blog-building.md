@@ -36,7 +36,7 @@ Codes are edited with my favorite editor: vscode 😜
 
 The latex codes are not originally supported by GitHub Pages, so addtional tools and methods are needed. Here I used MathJex to make latex codes useable.
 
-1. from [layout page](https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.html), change `THEME_NAME` to the theme you are using (for me it's `minimal`), then add this page to your repo `_layout/default.html`.
+1. from [layout page](https://github.com/pages-themes/THEME_NAME/blob/master/_layouts/default.html), change `THEME_NAME` to the theme you are using (for me it's `minima`), then add this page to your repo `_layout/default.html`.
 
 2. add following code in `<head>` tag of `default.html` page
 
