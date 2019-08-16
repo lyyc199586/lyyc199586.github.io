@@ -2,7 +2,8 @@
 layout: post
 title: "Blog building"
 categories: misc
-comments: true
+author: Yangyuanchen Liu
+tag: [code, tool]
 ---
 
 ## Intro
