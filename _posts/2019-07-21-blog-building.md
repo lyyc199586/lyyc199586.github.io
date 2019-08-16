@@ -15,7 +15,7 @@ All the tools, techniques and method I used to built this blog will be recorded 
 
 `July. 21, 2019`: Sharing Room was built and pushed to [lyyc199586.github.io](https://github.com/lyyc199586/lyyc199586.github.io)
 
-`Aug. 14, 2019`: Theme was changed from minimal (offical theme of GitHub Page) to minima
+`Aug. 14, 2019`: Theme was changed from minimal (offical theme of GitHub Page) to minima (default theme of Jekyll)
 
 ---
 
@@ -23,7 +23,7 @@ All the tools, techniques and method I used to built this blog will be recorded 
 
 ### Markdown
 
-Blog contexts are in markdown format (.md)
+Blog contents are in markdown format (.md)
 
 ### vscode
 
@@ -33,9 +33,9 @@ Codes are edited with my favorite editor: vscode 😜
 
 ## Methods
 
-### Jakll
+### Jekyll
 
-I am using [Jakll](https://jekyllrb.com/) and [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) to generate static pages. Jakll is convenient and easy to use. The present theme I am using is _minima_, the default theme of Jakll.
+I am using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) to generate static pages. Jakll is convenient and easy to use. The present theme I am using is _minima_, the default theme of Jakll.
 
 ### LaTeX
 
