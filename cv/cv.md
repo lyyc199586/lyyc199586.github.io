@@ -2,6 +2,7 @@
 layout: post
 title: "CV"
 categories: misc
+comments: false
 ---
 
 > [download resume](./cv/resume.pdf) (last update: 2019-07-21)

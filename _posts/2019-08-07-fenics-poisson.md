@@ -110,7 +110,7 @@ $$
 
 Note: I am using [Colab](https://colab.research.google.com) to run FEniCS codes, colab is an online coding platform supported by Google. It is the most convenient way to play with FEniCS and share your notebook with other users.
 
-> How to use FEniCS in Google Colab: see [colab-fenics-instal](https://github.com/cmaurini/damage-course/blob/master/colab-fenics-install.ipynb) by [cmaurini](https://github.com/cmaurini).
+> How to use FEniCS in Google Colab: see [colab-fenics-install](https://github.com/cmaurini/damage-course/blob/master/colab-fenics-install.ipynb) by [cmaurini](https://github.com/cmaurini).
 
 ### settings
 
