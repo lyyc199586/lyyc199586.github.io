@@ -63,8 +63,6 @@ _Bachelor_, **Material Science and Engineering**
 | ------------------------------------------- | ------------------------------------------- |
 | ![3d_manifold1](../pic/cv/3d_manifold1.gif) | ![3d_manifold2](../pic/cv/3d_manifold2.gif) |
 
-
-
 #### `Nov. 2017 - May. 2018`: Phase field simulation for materials
 
 - Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation
