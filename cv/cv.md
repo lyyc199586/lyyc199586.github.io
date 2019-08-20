@@ -35,7 +35,7 @@ _Bachelor_, **Material Science and Engineering**
 
 - Rank 1/52
 - GPA: 91.02/100
-- [Transcript](../pic/cv/Undergraduate-transcript.jpg) | [Explanation](../pic/cv/Undergraduate-transcript-explanation.jpg)
+- [Transcript](../pic/cv/Undergraduate-transcript.jpg) - [Explanation](../pic/cv/Undergraduate-transcript-explanation.jpg)
 
 ---
 
