@@ -4,6 +4,7 @@ title: "Strong form for Phase Field"
 categories: note
 author: Yangyuanchen Liu
 tag: [mechanices, phasefield]
+excerpt_separator: <!--more-->
 ---
 
 Notes about how to get the strong form (the Euler-Lagrange equations) of phase field.

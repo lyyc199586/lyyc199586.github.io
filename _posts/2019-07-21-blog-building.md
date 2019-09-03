@@ -4,6 +4,7 @@ title: "Blog building"
 categories: misc
 author: Yangyuanchen Liu
 tag: [code, tool]
+excerpt_separator: <!--more-->
 ---
 
 All the tools, techniques and method I used to built this blog will be recorded here.
