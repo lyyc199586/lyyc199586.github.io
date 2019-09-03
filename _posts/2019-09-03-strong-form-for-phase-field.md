@@ -17,6 +17,7 @@ $\varOmega\subset \mathbb{R}^n, n=2,3$ is a bounded domain with a Lipschitz cont
 $$
 \varPi[\bm{u}]:=\int_\Omega \psi_0[\bm{\varepsilon(\bm{u})}]\mathrm{d}\varOmega - \int_{\Gamma_N} \bm{t}_N \cdot \bm{u} \mathrm{d} \Gamma - \int_\varGamma \bm{b}\cdot \bm{u} \mathrm{d}\varOmega,
 $$
+
 where
 
 - displacement field: $u\in H^1(\varOmega;\mathbb{R}^n)$
