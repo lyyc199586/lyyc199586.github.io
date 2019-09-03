@@ -45,7 +45,7 @@ theme: minima
 
 markdown: kramdown
 
-show_excerpts: false
+show_excerpts: true
 
 plugin:
  - jekyll-feed
