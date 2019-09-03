@@ -6,9 +6,11 @@ author: Yangyuanchen Liu
 tag: [FEniCS, code]
 ---
 
-> See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1005.html#ch:poisson0:membrane)
-
 Compute the deflection $D(x,y)$ of a two-dimensional, circular membrane of radius $R$, subject to a load $p$ over the membrane.
+
+## Reference
+
+> [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1005.html#ch:poisson0:membrane)
 
 ## PDE
 

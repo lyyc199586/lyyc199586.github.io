@@ -8,15 +8,12 @@ tag: [code, tool]
 
 All the tools, techniques and method I used to built this blog will be recorded here.
 
----
-
 ## Timeline
 
 `July. 21, 2019`: Sharing Room was built and pushed to [lyyc199586.github.io](https://github.com/lyyc199586/lyyc199586.github.io)
 
 `Aug. 14, 2019`: Theme was changed from minimal (offical theme of GitHub Page) to minima (default theme of Jekyll)
 
----
 
 ## Tools
 
@@ -27,8 +24,6 @@ Blog contents are in markdown format (.md)
 ### vscode
 
 Codes are edited with my favorite editor: vscode 😜
-
----
 
 ## Methods
 
@@ -45,13 +40,19 @@ The latex codes are not originally supported by GitHub Pages, so addtional tools
 2. add following code in `<head>` tag of `default.html` page
 
 ```html
-    <script type="text/x-mathjax-config"> 
-      MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); 
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        TeX: {
+            equationNumbers: { autoNumber: "all" },
+            Macros: {bm: "\\boldsymbol"}
+          }
+        });
     </script>
     <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {
-          inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-          processEscapes: true
+      MathJax.Hub.Config({
+          tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            processEscapes: true
         }
       });
     </script>

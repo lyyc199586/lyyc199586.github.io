@@ -6,7 +6,11 @@ author: Yangyuanchen Liu
 tag: [mechanices, phasefield]
 ---
 
-> see [Implementation Details for the Phase Field Approach to Fracture](https://doi.org/10.1007/s12204-018-1922-0)
+Notes about how to get the strong form (the Euler-Lagrange equations) of phase field.
+
+## Reference
+
+> [Implementation Details for the Phase Field Approach to Fracture](https://doi.org/10.1007/s12204-018-1922-0)
 
 ## Elastostatics
 

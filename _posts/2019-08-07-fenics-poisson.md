@@ -6,9 +6,11 @@ author: Yangyuanchen Liu
 tag: [FEniCS, code]
 ---
 
-> See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1004.html)
-
 It is a "Hello, World!" program in FEniCS that solves following boundary-value problem.
+
+## Reference
+
+> [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1004.html)
 
 ## Mathematical problem formulation
 
