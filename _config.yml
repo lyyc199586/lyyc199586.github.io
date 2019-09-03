@@ -6,7 +6,6 @@ description: >
   Sharing Room is all about sharing, I will record share academic and technical 
   notes on this website.
 url: https://lyyc199586.github.io/
-show_excerpts: false
 
 disqus:
   shortname: lyyc199586
@@ -47,6 +46,8 @@ theme: minima
 #theme: jekyll-theme-minimal
 
 markdown: kramdown
+
+show_excerpts: true
 
 plugin:
  - jekyll-feed

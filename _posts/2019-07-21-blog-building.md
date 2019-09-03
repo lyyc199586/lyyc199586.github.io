@@ -6,8 +6,6 @@ author: Yangyuanchen Liu
 tag: [code, tool]
 ---
 
-## Intro
-
 All the tools, techniques and method I used to built this blog will be recorded here.
 
 ---

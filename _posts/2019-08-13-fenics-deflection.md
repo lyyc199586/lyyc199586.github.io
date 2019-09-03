@@ -8,13 +8,15 @@ tag: [FEniCS, code]
 
 > See [Sovling PDEs in Python - The FEniCS Tutorial Volume I](https://fenicsproject.org/pub/tutorial/html/._ftut1005.html#ch:poisson0:membrane)
 
+Compute the deflection $D(x,y)$ of a two-dimensional, circular membrane of radius $R$, subject to a load $p$ over the membrane.
+
 ## PDE
 
 $$
 -T\nabla^2 D=p \text{ in } \Omega = \{(x,y)|x^2 + y^2 \le R\}.
 $$
 
-Compute the deflection $D(x,y)$ of a two-dimensional, circular membrane of radius $R$, subject to a load $p$ over the membrane. Here $T$ is the tension in the membrane (constant), and $p$ is the external pressure load. The boundary of the membrane has no deflection (fixed), implying $D=0$ as a boundary condition. A localized load can be modeled as a Gaussian function:
+Here $T$ is the tension in the membrane (constant), and $p$ is the external pressure load. The boundary of the membrane has no deflection (fixed), implying $D=0$ as a boundary condition. A localized load can be modeled as a Gaussian function:
 
 $$
 p(x,y) = {A\over 2\pi\sigma} \exp\left(-{1\over 2}\left( {x-x_0\over \sigma}\right)^2 - {1\over 2}\left({y - y_0\over\sigma}^2\right)\right).

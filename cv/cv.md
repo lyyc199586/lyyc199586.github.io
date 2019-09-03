@@ -34,8 +34,8 @@ _Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://u
 _Bachelor_, **Material Science and Engineering**
 
 - Rank 1/52
-- GPA: 92.52/100
-- National sholarship (2 times)
+- GPA: 91.02/100
+- [Transcript](../pic/cv/Undergraduate-transcript.jpg) - [Explanation](../pic/cv/Undergraduate-transcript-explanation.jpg)
 
 ---
 
@@ -63,8 +63,6 @@ _Bachelor_, **Material Science and Engineering**
 | ------------------------------------------- | ------------------------------------------- |
 | ![3d_manifold1](../pic/cv/3d_manifold1.gif) | ![3d_manifold2](../pic/cv/3d_manifold2.gif) |
 
-
-
 #### `Nov. 2017 - May. 2018`: Phase field simulation for materials
 
 - Use an open-source phase field modeling framework ([PRISMS-PF](http://prisms-center.github.io/phaseField/)) to do simulations of solidification and precipitation
@@ -82,30 +80,42 @@ _Bachelor_, **Material Science and Engineering**
 #### `Nov. 2015 - Mar. 2016`: Undergraduate casting technology design contest
 
 - Design, model and simulate a nodular iron casting
-- National 3rd prize
+- [National 3rd prize](../pic/cv/Yongguan-cup-2016.jpg)
 
 #### `May. 2015 - Mar. 2016`: National undergraduate innovation program
 
 - Prepare and test photocatalytic property of Ce 3+ - doped titanium dioxide nanotubes
+- [Completion certificate](../pic/cv/Innovation-training-program-2017.jpg)
 
 ---
 
 ## AWARDS
 
-`Octo. 2016`: National Scholarship, _Rank 1/52_
+`2015 - 2016`:
 
-`Octo. 2015`: Dongfeng Automobile Scholarship, _Rank 2/296_
+- [National Scholarship](../pic/cv/National-scholarship-2016.jpg), _Rank 1/52_
+- 7th Yongguan cup (casting design contest): [National 3rd prize](../pic/cv/Yongguan-cup-2016.jpg)
 
-`Octo. 2014`: National Scholarship, _Rank 1/296_
+`2014 - 2015`:
+
+- [Dongfeng Automobile Scholarship](../pic/cv/Dongfeng-scholarship-2015.jpg), _Rank 2/296_
+- [First-class Scholarship](../pic/cv/First-class-scholarship-2015.jpg)
+- [Individual Scholarship](../pic/cv/Individual-scholarship-2015.jpg)
+- [Outstanding Student](../pic/cv/Outstanding-student-2015.jpg)
+
+`2013 - 2014`:
+
+- [National Scholarship](../pic/cv/National-scholarship-2014.jpg), _Rank 1/296_
+- [Outstanding Student](../pic/cv/Outstanding-student-2014.jpg)
 
 ---
 
 ## LANGUAGE
 
 - Standard English tests
-  - GRE General: 325+4 (V155, Q170, AW4)
-  - TOEFL: 100 (R29, L25, S23, W23)
-  - IELTS: 7.0 (R7, L8, S6, W6)
+  - [GRE General](../pic/cv/GRE-2019.pdf): 325+4 (V155, Q170, AW4)
+  - [TOEFL](../pic/cv/TOEFL-2019.jpg): 100 (R29, L25, S23, W23)
+  - [IELTS](../pic/cv/IELTS-2015.jpg): 7.0 (R7, L8, S6, W6)
 
 ---
 
@@ -122,7 +132,8 @@ _Bachelor_, **Material Science and Engineering**
   - Markdown
 
 - FEM Analysis
-  - CATIA
+  - CATIA ([3D-CAD](../pic/cv/3D-CAD-2014.jpg))
+  - AutoCAD ([2D-CAD](../pic/cv/2D-CAD-2014.jpg))
   - Abaqus
 
 ---
