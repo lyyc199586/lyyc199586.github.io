@@ -10,8 +10,8 @@ tag: [mechanices, phasefield]
 
 ## Elastostatics
 
-$\Omega\subset \mathbb{R}^n, n=2,3$ is a bounded domain with a Lipschitz continuous boundary. Linear elastostatics on $\Omega$ can be formulated as minimizing the potential energy
+$\varOmega\subset \mathbb{R}^n, n=2,3$ is a bounded domain with a Lipschitz continuous boundary. Linear elastostatics on $\Omega$ can be formulated as minimizing the potential energy
 
 $$
-\Pi[\bm{u}]:=\int_\Omega \psi_0
+\varPi[\mathbf{u}]:=\int_\Omega \psi_0
 $$
