@@ -4,9 +4,11 @@ title: "FEniCS notes: Poisson equation"
 categories: note
 author: Yangyuanchen Liu
 tag: [FEniCS, code]
+excerpt_separator: <!--only-->
 ---
 
 It is a "Hello, World!" program in FEniCS that solves following boundary-value problem.
+<!--only-->
 
 ## Reference
 
@@ -183,7 +185,7 @@ print('error_L2 = ', error_L2)
 print('error_max = ', error_max)
 ```
 
-```
+```python
 error_L2 =  0.008235098073354827
 error_max =  1.3322676295501878e-15
 ```
