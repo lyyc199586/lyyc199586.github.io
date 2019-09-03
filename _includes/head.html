@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- setting for MathJax -->
+    <script type="text/x-mathjax-config"> 
+        MathJax.Hub.Config({
+            TeX: { 
+                equationNumbers: { autoNumber: "all" },
+                Macros:{bm: "\\boldsymbol"}
+            } 
+        }); 
+    </script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
             tex2jax: {
@@ -12,10 +20,6 @@
                 displayMath: [ ['$$', '$$'], ["\\[", "\\]"] ],
                 processEscapes: true
             },
-            Tex: {
-                equationNumbers: { autoNumber: "all" },
-                Macros: {bm: "\\boldsymbol"}
-            }
         });
     </script>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
