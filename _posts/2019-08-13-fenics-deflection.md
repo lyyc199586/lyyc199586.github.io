@@ -4,11 +4,11 @@ title: "FEniCS notes: Deflection of a membrane"
 categories: note
 author: Yangyuanchen Liu
 tag: [FEniCS, code]
-excerpt_separator: <!--only-->
+excerpt_separator: <!--more-->
 ---
 
 Compute the deflection $D(x,y)$ of a two-dimensional, circular membrane of radius $R$, subject to a load $p$ over the membrane.
-<!--only-->
+<!--more-->
 
 ## Reference
 

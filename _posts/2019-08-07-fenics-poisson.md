@@ -4,11 +4,11 @@ title: "FEniCS notes: Poisson equation"
 categories: note
 author: Yangyuanchen Liu
 tag: [FEniCS, code]
-excerpt_separator: <!--only-->
+excerpt_separator: <!--more-->
 ---
 
 It is a "Hello, World!" program in FEniCS that solves following boundary-value problem.
-<!--only-->
+<!--more-->
 
 ## Reference
 
