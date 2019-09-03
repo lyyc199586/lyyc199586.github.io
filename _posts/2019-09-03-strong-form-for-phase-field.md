@@ -8,6 +8,8 @@ tag: [mechanices, phasefield]
 
 Notes about how to get the strong form (the Euler-Lagrange equations) of phase field.
 
+<!--more-->
+
 ## Reference
 
 > [Implementation Details for the Phase Field Approach to Fracture](https://doi.org/10.1007/s12204-018-1922-0)
