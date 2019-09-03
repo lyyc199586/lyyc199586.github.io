@@ -44,7 +44,7 @@ $$
 
 ### Strong Form
 
-Look at the LFS of (3), write it in the indices form and use intergration by parts and the divergence thorem,
+Look at the LHS of (3), write it in the index form and use intergration by parts and the divergence thorem,
 
 $$
 \int_\varOmega \sigma_{ij}\bar{u}_{i,j}\mathrm{d}\varOmega
@@ -67,6 +67,7 @@ $$
 \mathrm{div}\bm{\sigma[\varepsilon(u)]} + \bm{b} = \bm{0}, \quad \text{in } \varOmega,\\
 \mathrm{div}\bm{\sigma[\varepsilon(u)]} \cdot \bm{n}-\bm{t}_N = \bm{0},\quad \text{on } \varGamma_N.
 $$
+
 which are the equilibrium equation and the traction boundary condition, respectively.
 
 ## Quasistatic Phase Field Formulation
