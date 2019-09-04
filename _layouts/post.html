@@ -22,20 +22,6 @@ layout: default
       {%- endif -%}
     </p>
   </header>
-
-  <!-- this is side bar -->
-  <div class="sidebar" id="sidebar">
-      <nav class="sidebar-nav">
-         {% include navitem.html %}
-      </nav>
-
-      <div class="toc">
-         <div class='toc-container'>
-            {% include toc.html html=content %}
-         </div>
-      </div>
-
-  </div>
   
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
