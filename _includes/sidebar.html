@@ -27,18 +27,16 @@
     <!-- <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
   </nav>
 
-  <div class="sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-    </p>
-  </div>
-
-  {%- include toc.html -%}
-
   <div class="toc">
     <div class='toc-container'>
         {% include toc.html html=content %}
     </div>
   </div>
+
+  <div class="sidebar-item">
+      <p>
+        &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      </p>
+    </div>
 
 </div>
