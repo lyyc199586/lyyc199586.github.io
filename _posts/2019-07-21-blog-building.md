@@ -69,14 +69,10 @@ Then latex formulas are supported, for example, $\LaTeX$ .
 
 I am using [Disqus](https://disqus.com) to comment because it can be connected to Jekyll easily (notice Disqus is blocked in China!).
 
-
-
 ### Sidebar
 
 I am using a Sidebar from GitHub named  [Lanyon](https://github.com/poole/lanyon), see `./_includes/sidebar.html` and add style in `./_sass/minima/_layout.scss`
 
-
-
 ### Table of content
 
-I am using a TOC from GitHub named [Jekyll-toc](https://github.com/allejo/jekyll-toc), see `./_includes/toc.html` and add `{% include toc.html html=content}`  in `sidebar.html`.
+I am using a TOC from GitHub named [Jekyll-toc](https://github.com/allejo/jekyll-toc), see `./_includes/toc.html` and add liquid tag `include toc.html html=content`  in `sidebar.html`.
