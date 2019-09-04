@@ -17,9 +17,17 @@ Current research interest:
 
 Here is my [CV](/cv/cv.md) (last update: 2019-07-21).
 
-## This Site
+## Sources
 
-I will share academic and technical notes on this website.
+This website uses these sources:
+
+| Module                                                   | Mainly used in | License/TOC |
+| -------------------------------------------------------- | -------------- | ----------- |
+| [Side bar](https://github.com/poole/lanyon)              | Post           | MIT         |
+| [Table of content](https://github.com/allejo/jekyll-toc) | Post           | MIT         |
+| [comment](https://disqus.com/)                           | Post           | APGL-3.0    |
+
+
 
 ## Contact
 
