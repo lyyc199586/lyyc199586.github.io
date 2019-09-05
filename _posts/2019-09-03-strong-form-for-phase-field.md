@@ -84,7 +84,7 @@ which are the equilibrium equation and the traction boundary condition, respecti
 Now with phase field, the potential energy is
 
 $$
-\Pi_l[\bm{u},d] := 
+\varPi_l[\bm{u},d] := 
 \int_\varOmega\psi[\varepsilon,d] \mathrm{d}\varOmega-\int_{\Gamma_N}t_N\cdot \bm{u}\mathrm{d} \Gamma-\int_\varOmega b\cdot \bm{u} \mathrm{d} \varOmega + {g_c\over2}\int_\varOmega\left( {d^2\over l} + l |\nabla d|^2 \right)\mathrm{d} \varOmega.
 $$
 
@@ -93,11 +93,11 @@ $$
 Taking the first derivation of (7) yields
 
 $$
-\delta\Pi_l[(\bm{u},d);(\bar{\bm{u}},\bar{d})] = 
+\delta\varPi_l[(\bm{u},d);(\bar{\bm{u}},\bar{d})] = 
 \int_\varOmega \sigma:\varepsilon(\bar{\bm{u}}) \mathrm{d} \varOmega - 
 \int_{\Gamma_N} t_N \cdot \bar{\bm{u}} \mathrm{d} \varOmega -
 \int_\varOmega b \cdot \bar{\bm{\bm{u}}} \mathrm{d} \varOmega +\\
-\int_\varOmega{\partial \varPsi \over \partial d} \bar{d} \mathrm{d} \varOmega +
+\int_\varOmega{\partial \psi \over \partial d} \bar{d} \mathrm{d} \varOmega +
 g_c \int_\varOmega\left({d\over l}\bar{d} + l\nabla d\cdot \nabla\bar{d} \right) \mathrm{d} \varOmega.
 $$
 
@@ -128,7 +128,7 @@ $$
 which gives the boundary condition for $d$ and
 
 $$
-{\partial \varPsi\over \partial d} + g_c \left( {d\over l} - l \Delta d \right) = 0 \text{ in } \varOmega,
+{\partial \psi\over \partial d} + g_c \left( {d\over l} - l \Delta d \right) = 0 \text{ in } \varOmega,
 $$
 
 which is the strong form for phase field $d$.
