@@ -115,13 +115,13 @@ Consider $g_c \int_\varOmega l\nabla d\cdot \nabla\bar{d} \mathrm{d} \varOmega$ 
 $$
 \int_\varOmega d_{,i} \bar{d}_{,i} \mathrm{d} \varOmega
 = \int_\varOmega (d_{,i}\bar{d})_{,i}\mathrm{d} \varOmega - \int_\varOmega d_{,ii}\bar{d} \mathrm{d} \varOmega \\
-=\int_\Gamma d_{,i} n_i \bar{d} \mathrm{d} \Gamma - \int_\varOmega d_{,ii} \bar{d} \varOmega.
+=\int_\Gamma d_{,i} n_i \bar{d} \mathrm{d} \varGamma - \int_\varOmega d_{,ii} \bar{d} \varOmega.
 $$
 
-$\forall \bar{d}, \delta\Pi=0 \Rightarrow$
+$\forall \bar{d}, \delta\varPi=0 \Rightarrow$
 
 $$
-d_{,i}n_i=0 \text{ on } \Gamma\\
+d_{,i}n_i=0 \text{ on } \varGamma (\text{or }\partial\varOmega)\\
 \text{or } \nabla d \cdot \bm{n}=0,
 $$
 
