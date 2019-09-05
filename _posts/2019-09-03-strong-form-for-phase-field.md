@@ -34,7 +34,7 @@ where
 - strain: $\bm{\varepsilon(\bm{u})} := {1\over 2} (\nabla{\bm{u}} + \nabla{\bm{u}}^T)$
 - strain energy density: $\psi_0(\bm{\varepsilon}):={\lambda\over 2} (\mathrm{tr }\bm{\varepsilon})^2 + \mu\bm{\varepsilon}:\bm{\varepsilon}$
 
-### Weak Form
+### Weak form
 
 Taking the first variation of (1) yields
 
@@ -49,7 +49,7 @@ $$
 = \int_{\varGamma_N} \bm{t}_N\cdot \bm{\bar{u}} \mathrm{d} \varGamma + \int_\varGamma \bm{b}\cdot \bm{\bar{u}} \mathrm{d} \Omega.
 $$
 
-### Strong Form
+### Strong form
 
 Look at the LHS of (3), write it in the index form and use intergration by parts and the divergence thorem,
 
@@ -79,3 +79,56 @@ which are the equilibrium equation and the traction boundary condition, respecti
 
 ## Quasistatic Phase Field Formulation
 
+### Energy functional with phase field
+
+Now with phase field, the potential energy is
+
+$$
+\Pi_l[\bm{u},d] := 
+\int_\varOmega\psi[\varepsilon,d] \mathrm{d}\varOmega-\int_{\Gamma_N}t_N\cdot \bm{u}\mathrm{d} \Gamma-\int_\varOmega b\cdot \bm{u} \mathrm{d} \varOmega + {g_c\over2}\int_\varOmega\left( {d^2\over l} + l |\nabla d|^2 \right)\mathrm{d} \varOmega.
+$$
+
+### Weak form for phase field
+
+Taking the first derivation of (7) yields
+
+$$
+\delta\Pi_l[(\bm{u},d);(\bar{\bm{u}},\bar{d})] = 
+\int_\varOmega \sigma:\varepsilon(\bar{\bm{u}}) \mathrm{d} \varOmega - 
+\int_{\Gamma_N} t_N \cdot \bar{\bm{u}} \mathrm{d} \varOmega -
+\int_\varOmega b \cdot \bar{\bm{\bm{u}}} \mathrm{d} \varOmega +\\
+\int_\varOmega{\partial \varPsi \over \partial d} \bar{d} \mathrm{d} \varOmega +
+g_c \int_\varOmega\left({d\over l}\bar{d} + l\nabla d\cdot \nabla\bar{d} \right) \mathrm{d} \varOmega.
+$$
+
+The weak form is thus
+
+$$
+\int_\varOmega{\partial \psi \over \partial d} \bar{d} \mathrm{d} \varOmega +
+g_c \int_\varOmega\left({d\over l}\bar{d} + l\nabla d\cdot \nabla\bar{d} \right) \mathrm{d} \varOmega = 0.
+$$
+
+### Strong form for phase field
+
+Consider $g_c \int_\varOmega l\nabla d\cdot \nabla\bar{d} \mathrm{d} \varOmega$  term in index notation
+
+$$
+\int_\varOmega d_{,i} \bar{d}_{,i} \mathrm{d} \varOmega
+= \int_\varOmega (d_{,i}\bar{d})_{,i}\mathrm{d} \varOmega - \int_\varOmega d_{,ii}\bar{d} \mathrm{d} \varOmega \\
+=\int_\Gamma d_{,i} n_i \bar{d} \mathrm{d} \Gamma - \int_\varOmega d_{,ii} \bar{d} \varOmega.
+$$
+
+$\forall \bar{d}, \delta\Pi=0 \Rightarrow$
+
+$$
+d_{,i}n_i=0 \text{ on } \Gamma\\
+\text{or } \nabla d \cdot \bm{n}=0,
+$$
+
+which gives the boundary condition for $d$ and
+
+$$
+{\partial \varPsi\over \partial d} + g_c \left( {d\over l} - l \Delta d \right) = 0 \text{ in } \varOmega,
+$$
+
+which is the strong form for phase field $d$.
