@@ -5,7 +5,7 @@ categories: misc
 comments: false
 ---
 
-> [download resume](./cv/resume.pdf) (last update: 2019-07-21)
+> [download resume](./resume-lyyc-1018.pdf) (last update: 2019-07-21)
 
 ---
 
@@ -23,18 +23,18 @@ comments: false
 
 ### `Sept. 2017 - Present`: UM-SJTU Joint Institute, **Shanghai Jiao Tong University**,  Shanghai, China
 
-_Mater candidate_, **Mechanical Engineering**, advisor: [Yongxing Shen](http://umji.sjtu.edu.cn/~yxshen/En/Content.php?pid=6&cid=122)
+_M.S._ **Mechanical Engineering**, advisor: [Yongxing Shen](http://umji.sjtu.edu.cn/~yxshen/En/Content.php?pid=6&cid=122)
 
 - University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two permier univeristies, the Univeristy of Michigan and Shanghai Jiao Tong University
 - GPA: 3.71/4.0
 - All courses and activities are held in English
 
-### `Sept. 2013 - July. 2017`: College of Material Science and Engineering, **Jilin University**, Changchun, China
+### `Sept. 2013 - July. 2017`: School of Materials Science and Engineering, **Jilin University**, Changchun, China
 
-_Bachelor_, **Material Science and Engineering**
+_B.S._ **Polymer Material and Engineering**
 
 - Rank 1/52
-- GPA: 91.02/100
+- GPA: 3.69/4.0 (91.02/100)
 - [Transcript](../pic/cv/Undergraduate-transcript.jpg) - [Explanation](../pic/cv/Undergraduate-transcript-explanation.jpg)
 
 ---
