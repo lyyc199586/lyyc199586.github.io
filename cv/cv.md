@@ -25,7 +25,7 @@ comments: false
 
 _M.S._ **Mechanical Engineering**, advisor: [Yongxing Shen](http://umji.sjtu.edu.cn/~yxshen/En/Content.php?pid=6&cid=122)
 
-- University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two permier univeristies, the Univeristy of Michigan and Shanghai Jiao Tong University
+- University of Michigan - Shanghai Jiao Tong University Joint Insititute (UM-SJTU JI): JI was jointly established in 2006 by two top universities, the University of Michigan and Shanghai Jiao Tong University
 - GPA: 3.71/4.0
 - All courses and activities are held in English
 
