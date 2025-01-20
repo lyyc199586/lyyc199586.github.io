@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yangyuanchen Liu",
     "section": "",
-    "text": "Hi! I am Yangyuanchen Liu. I am a Postdoctoral fellow in Johns Hopkins University.\nCurrent research interest:"
+    "text": "Hi! I am Yangyuanchen Liu, a Postdoctoral Fellow in the Department of Civil and Systems Engineering at Johns Hopkins University, where I work under the mentorship of Professor Somnath Ghosh, a distinguished leader in computational mechanics and materials.\nMy research lies at the intersection of computational mechanics, with a particular focus on phase-field for fracture, multiscale modeling, and model-based simulations. I earned my Ph.D. in Computational Mechanics from Duke University in 2024, under the guidance of Professor John Dolbow. Prior to that, I completed my M.S. in Mechanical Engineering at Shanghai Jiao Tong University and my B.S. in Materials Science and Engineering at Jilin University.\nView my CV: English, Chinese"
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,12 @@
     "title": "Publications",
     "section": "Presentations",
     "text": "Presentations\nA model-based simulation framework for coupled acoustics, elastodynamics, and damage with application to nano-pulse lithotripsy (2023)\nY. Liu, P. Zhong, O. Lopez-Pamies, J. E. Dolbow\nPresented at the 17th United States National Congress on Computational Mechanics (USNCCM17), Albuquerque, New Mexico\nModel-based Simulations of Pulsed Laser Abla- tion using a CutFEM Method (2022)\nY. Liu, S. Claus, P. Kerfriden, J. Chen, P. Zhong, J. E. Dolbow\nPresented at The 15th World Congress on Computational Mechanics (WCCM15), Yokohama, Japan\nA Micromechanics-based Phase Field Approach to Fracture (2019)\nY. Liu, C. Cheng, Y. Shen\nPresented at The 2nd International Conference of Mechanics of Advanced Materials and Structures, Nanjing, China\nA Manifold Learning Approach for Multiscale Phase Field Evolution for Fracture (2019)\nY. Liu, K. Weng, Y. Shen\nPresented at The International Conference on Data Driven Computing and Machine Learning in Engineering, Shanghai, China\nA Homogenization-based Phase Field Approach to Fracture (2019)\nY. Liu, C. Cheng, Y. Shen\nPresented at the 15th United States National Congress on Computational Mechanics (USNCCM15), Austin, Texas"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "here will be some useful links…"
   }
 ]

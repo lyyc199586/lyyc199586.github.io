@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Yangyuanchen Liu"
+  description: "Personal website of Yangyuanchen Liu"
   navbar:
     left:
       - href: index.qmd
