@@ -40,5 +40,8 @@ format:
     toc: true
     page-layout: full
 
+execute:
+  freeze: auto
+
 
 

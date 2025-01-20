@@ -1,0 +1,94 @@
+---
+title: "Publications"
+format: html
+jupyter: python3
+echo: false
+---
+
+
+```{python}
+#| output: asis
+
+import bibtexparser
+
+def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
+    """
+    Convert authors' full names into initials format and bold the specified name.
+    """
+    formatted_authors = []
+    authors = authors_raw.split(" and ")  # Split multiple authors
+    for author in authors:
+        parts = author.split(", ")
+        if len(parts) == 2:  # Format: Lastname, Firstname
+            lastname, firstname = parts
+            initials = " ".join(f"{name[0]}." for name in firstname.split())  # Extract initials
+            formatted_name = f"{initials} {lastname}"
+        else:
+            # Handle cases without a comma (Firstname Lastname)
+            name_parts = author.split()
+            lastname = name_parts[-1]
+            firstname_parts = name_parts[:-1]
+            initials = " ".join(f"{name[0]}." for name in firstname_parts)
+            formatted_name = f"{initials} {lastname}"
+        
+        # Bold the specified name
+        if author.strip() == highlight_name.strip():
+            formatted_name = f"**{formatted_name}**"
+        formatted_authors.append(formatted_name)
+    return ", ".join(formatted_authors)
+
+print("## Papers")
+
+# Load the BibTeX file
+with open("./publications/papers.bib", "r", encoding="utf-8") as bibtex_file:
+    paper_database = bibtexparser.load(bibtex_file)
+
+# Load the BibTeX file
+with open("./publications/conferences.bib", "r", encoding="utf-8") as bibtex_file:
+    pre_database = bibtexparser.load(bibtex_file)
+
+# Sort entries by year in descending order
+sorted_papers = sorted(
+    paper_database.entries,
+    key=lambda x: int(x.get("year", 0)),  # Convert year to int for comparison
+    reverse=True
+)
+
+sorted_pres = sorted(
+    pre_database.entries,
+    key=lambda x: int(x.get("year", 0)),  # Convert year to int for comparison
+    reverse=True
+)
+
+
+# Extract and display publications
+for entry in sorted_papers:
+    title = entry.get("title", "No Title")
+    author = entry.get("author", "No Author")
+    year = entry.get("year", "No Year")
+    journal = entry.get("journal", "")
+    volume = entry.get("volume", "")
+    number = entry.get("number", "")
+    pages = entry.get("pages", "")
+    doi = entry.get("doi", "")
+
+    # Format and display each publication
+    print(f"**{title}** ({year})  \n *{format_authors(author)}*  \n *{journal}* {volume}, {pages}.")
+    if doi:
+        print(f"[DOI: {doi}](https://doi.org/{doi})")
+    print("\n")
+
+print("## Presentations")
+
+# Extract and display publications
+for entry in sorted_pres:
+    title = entry.get("title", "No Title")
+    author = entry.get("author", "No Author")
+    eventtitle = entry.get("eventtitle", "No Event")
+    location = entry.get("location", "No Location")
+    year = entry.get("date", "No Year")
+
+    # Format and display each publication
+    print(f"**{title}** ({year})  \n  *{format_authors(author)}*  \n  Presented at *{eventtitle}*, {location}\n")
+```
+
