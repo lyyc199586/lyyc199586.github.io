@@ -1,6 +1,8 @@
 ---
-title: "Publications"
-format: html
+# title: "Publications"
+format: 
+  html:
+    keep-md: true
 jupyter: python3
 echo: false
 ---
@@ -43,20 +45,19 @@ print("## Papers")
 with open("./publications/papers.bib", "r", encoding="utf-8") as bibtex_file:
     paper_database = bibtexparser.load(bibtex_file)
 
-# Load the BibTeX file
 with open("./publications/conferences.bib", "r", encoding="utf-8") as bibtex_file:
     pre_database = bibtexparser.load(bibtex_file)
 
 # Sort entries by year in descending order
 sorted_papers = sorted(
     paper_database.entries,
-    key=lambda x: int(x.get("year", 0)),  # Convert year to int for comparison
+    key=lambda x: int(x.get("year", 0)), 
     reverse=True
 )
 
 sorted_pres = sorted(
     pre_database.entries,
-    key=lambda x: int(x.get("year", 0)),  # Convert year to int for comparison
+    key=lambda x: int(x.get("year", 0)), 
     reverse=True
 )
 
@@ -71,11 +72,20 @@ for entry in sorted_papers:
     number = entry.get("number", "")
     pages = entry.get("pages", "")
     doi = entry.get("doi", "")
+    abstract = entry.get("abstract")
 
     # Format and display each publication
     print(f"**{title}** ({year})  \n *{format_authors(author)}*  \n *{journal}* {volume}, {pages}.")
     if doi:
         print(f"[DOI: {doi}](https://doi.org/{doi})")
+    print("\n")
+    if abstract:
+        print(f"""
+<details>
+<summary>Abstract</summary>
+{abstract}
+</details>
+        """)
     print("\n")
 
 print("## Presentations")
