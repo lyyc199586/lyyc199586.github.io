@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "lyyc199586.gtihub.io"
+  title: "A Little Computational Mechanic"
   navbar:
     left:
       - href: index.qmd
