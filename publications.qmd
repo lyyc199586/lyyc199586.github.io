@@ -39,6 +39,16 @@ def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
         formatted_authors.append(formatted_name)
     return ", ".join(formatted_authors)
 
+def generate_doi_badge(doi):
+    """
+    Generate a DOI badge with a hyperlink using shields.io.
+    """
+    badge_url = f"https://img.shields.io/badge/DOI-{doi}-blue.svg"
+    doi_url = f"https://doi.org/{doi}"
+    return f"[![DOI: {doi}]({badge_url})]({doi_url})"
+
+# Start Content
+
 print("## Papers")
 
 # Load the BibTeX file
@@ -75,9 +85,9 @@ for entry in sorted_papers:
     abstract = entry.get("abstract")
 
     # Format and display each publication
-    print(f"**{title}** ({year})  \n *{format_authors(author)}*  \n *{journal}* {volume}, {pages}.")
+    print(f"**{title}** ({year}). *{format_authors(author)}*. *{journal}* {volume}, {pages}.")
     if doi:
-        print(f"[DOI: {doi}](https://doi.org/{doi})")
+        print(generate_doi_badge(doi))
     if abstract:
         print(f"""
 <details>
@@ -98,6 +108,6 @@ for entry in sorted_pres:
     year = entry.get("date", "No Year")
 
     # Format and display each publication
-    print(f"**{title}** ({year})  \n  *{format_authors(author)}*  \n  Presented at *{eventtitle}*, {location}\n")
+    print(f"**{title}** ({year}). *{format_authors(author)}*.  Presented at *{eventtitle}*, {location}\n")
 ```
 
