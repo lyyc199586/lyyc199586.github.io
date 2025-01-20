@@ -78,7 +78,6 @@ for entry in sorted_papers:
     print(f"**{title}** ({year})  \n *{format_authors(author)}*  \n *{journal}* {volume}, {pages}.")
     if doi:
         print(f"[DOI: {doi}](https://doi.org/{doi})")
-    print("\n")
     if abstract:
         print(f"""
 <details>
@@ -86,7 +85,7 @@ for entry in sorted_papers:
 {abstract}
 </details>
         """)
-    print("\n")
+    print()
 
 print("## Presentations")
 

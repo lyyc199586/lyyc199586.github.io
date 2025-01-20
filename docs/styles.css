@@ -1,1 +1,6 @@
 /* css styles */
+
+details {
+    margin-top: -1rem; /* Remove unnecessary space before details */
+    margin-bottom: 0.5rem; /* Add a small gap after details */
+}
