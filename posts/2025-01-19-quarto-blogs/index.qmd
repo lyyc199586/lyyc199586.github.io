@@ -1,0 +1,19 @@
+---
+title: "Build an academic website with a blog"
+description: |
+  Using Quarto to build my academic website with a blog
+author:
+  - name: Yangyuanchen Liu
+    url: https://lyyc199586.github.io/
+    orcid: 0000-0002-7730-8287
+date: 2025-01-19
+date-modified: last-modified
+bibliography: references.bib
+citation: 
+  url: https://lyyc199586.github.io/posts/2025-01-19-quarto-blogs/
+categories: [Quarto]
+image: quarto.png
+draft: false
+---
+
+I will add how do I build this website here... [@csik2021]

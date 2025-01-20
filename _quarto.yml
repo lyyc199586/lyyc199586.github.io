@@ -3,18 +3,42 @@ project:
   output-dir: docs
 
 website:
-  title: "A Little Computational Mechanic"
+  title: "Yangyuanchen Liu"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: "Research"
+        href: research.qmd
+      - href: publications.qmd
+        text: Publications
+      - posts.qmd
+      - resources.qmd
+    right:
+        # menu:
+      - icon: linkedin
+        # text: LinkedIn
+        href: https://www.linkedin.com/in/yangyuanchen-liu-239148120/
+        target: _blank
+      - icon: envelope
+        # text: email
+        href: mailto:yliu664@jh.edu
+      - icon: github
+        href: https://github.com/lyyc199586/lyyc199586.github.io
+        target: _blank
+  page-footer: 
+    background: light
+    left: © 2025 Yangyuanchen Liu
+    right: This website is built with [Github Pages](https://github.com/lyyc199586/lyyc199586.github.io) and [Quarto](https://quarto.org/)
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

@@ -1,7 +1,28 @@
 ---
-title: "lyyc199586.gtihub.io"
+title: "Yangyuanchen Liu"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/yangyuanchen-liu-239148120/
+    - text: GitHub
+      href: https://github.com/lyyc199586
+    - text: Email
+      href: yliu664@jh.ed
 ---
 
-This is a Quarto website.
+Hi! I am Yangyuanchen Liu. I am a Postdoctoral fellow in Johns Hopkins University.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Current research interest:
+
+<!-- Here is my [CV](/cv/cv.md) (last update: 2019-07-21). -->
+
+
+
+## Contact
+
+The best way to reach me is via email: [_yliu664@jh.edu_](mailto:yliu664@jh.edu)
