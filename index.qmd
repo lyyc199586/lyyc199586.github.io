@@ -1,5 +1,6 @@
 ---
 title: "Yangyuanchen Liu, Ph.D."
+description: "A Little Computational Mechanic"
 image: media/headshot.jpg
 toc: false
 about: 
@@ -7,15 +8,18 @@ about:
   # image-shape: round
   image-width: 10em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/yangyuanchen-liu-239148120/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/lyyc199586
-    - text: Email
+    - icon: envelope
+      text: Email
       href: yliu664@jh.ed
 ---
 
-Hi! I am **Yangyuanchen Liu**, a Postdoctoral Fellow in the Department of Civil and Systems Engineering at *Johns Hopkins University*, where I work under the mentorship of **Professor Somnath Ghosh**, a distinguished leader in computational mechanics and materials.
+Hi! I am **Yangyuanchen Liu** (刘杨元琛), a Postdoctoral Fellow in the Department of Civil and Systems Engineering at *Johns Hopkins University*, where I work under the mentorship of **Professor Somnath Ghosh**, a distinguished leader in computational mechanics and materials.
 
 My research lies at the intersection of **computational mechanics**, with a particular focus on **phase-field for fracture**, **multiscale modeling**, and **model-based simulations**. I earned my Ph.D. in Computational Mechanics from *Duke University* in 2024, under the guidance of **Professor John Dolbow**. Prior to that, I completed my M.S. in Mechanical Engineering at *Shanghai Jiao Tong University* and my B.S. in Materials Science and Engineering at *Jilin University*.
 
