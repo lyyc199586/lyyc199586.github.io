@@ -1,5 +1,13 @@
 /* css styles */
 
+/* Importing font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* fonts */
+body {
+    font-family: 'Lato', sans-serif;
+}
+
 details {
     margin-left: -0.5rem;
     margin-top: -1.5rem;
