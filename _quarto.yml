@@ -9,12 +9,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "Research"
+      - text: Research
         href: research.qmd
       - href: publications.qmd
         text: Publications
-      - posts.qmd
-      - resources.qmd
+      - href: posts.qmd
+        text: Blog
+      # - resources.qmd
     right:
         # menu:
       - icon: linkedin

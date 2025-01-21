@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Yangyuanchen Liu - Research</title>
+<title>Yangyuanchen Liu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -106,10 +126,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./posts.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
-<span class="menu-text">Resources</span></a>
-  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -139,36 +155,46 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#crack-nucleation-and-growth-subjected-to-dynamic-loads" id="toc-crack-nucleation-and-growth-subjected-to-dynamic-loads" class="nav-link active" data-scroll-target="#crack-nucleation-and-growth-subjected-to-dynamic-loads">Crack Nucleation and Growth Subjected to Dynamic Loads</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Research</h1>
+
+
+
+<section id="crack-nucleation-and-growth-subjected-to-dynamic-loads" class="level2">
+<h2 class="anchored" data-anchor-id="crack-nucleation-and-growth-subjected-to-dynamic-loads">Crack Nucleation and Growth Subjected to Dynamic Loads</h2>
+<ul>
+<li>Ph.D.&nbsp;project at Dolbow Lab, Duke University</li>
+<li>Developed with <a href="https://hugary1995.github.io/raccoon/">RACCOON</a>, an open-source finite-element code tailored for phase-field fracture modeling, built on the <a href="https://mooseframework.inl.gov/">MOOSE</a> framework.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/research/ball3d_in_out_contour.gif" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Fragmentation of a hollow sphere <span class="citation" data-cites="liu2024thesis liu2024arxiv">(<a href="#ref-liu2024thesis" role="doc-biblioref">Liu 2024</a>; <a href="#ref-liu2024arxiv" role="doc-biblioref">Liu, Lopez-Pamies, and Dolbow 2024</a>)</span></figcaption>
+</figure>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+</section>
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>here will be some useful links…</p>
-
-
-
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-liu2024thesis" class="csl-entry" role="listitem">
+Liu, Yangyuanchen. 2024. <span>“A Computational Framework for Simulating Crack Nucleation and Growth in Materials Subjected to Dynamic Loads.”</span> <em>Duke University</em>. PhD thesis.
+</div>
+<div id="ref-liu2024arxiv" class="csl-entry" role="listitem">
+Liu, Yangyuanchen, Oscar Lopez-Pamies, and John E. Dolbow. 2024. <span>“On the Effects of Material Strength in Dynamic Fracture: A Phase-Field Study.”</span> <em>arXiv Preprint</em>. <a href="https://doi.org/10.48550/arXiv.2411.16393">https://doi.org/10.48550/arXiv.2411.16393</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

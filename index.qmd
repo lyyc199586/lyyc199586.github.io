@@ -1,5 +1,5 @@
 ---
-title: "Yangyuanchen Liu"
+title: "Yangyuanchen Liu, Ph.D."
 image: media/headshot.jpg
 toc: false
 about: 

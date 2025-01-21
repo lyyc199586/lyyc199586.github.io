@@ -25,7 +25,7 @@ We develop a model for solid objects surrounded by a fluid that accounts for the
 </details>
         
 
-**A Computational Framework for Simulating Crack Nucleation and Growth in Materials Subjected to Dynamic Loads** (2024). ***Y. Liu***. *Duke University* , 153.
+**A computational framework for simulating crack nucleation and growth in materials subjected to dynamic loads** (2024). ***Y. Liu***. *Duke University* , 153.
 
 <details>
 <summary>Abstract</summary>
@@ -62,7 +62,7 @@ Holmium:yttrium-aluminum-garnet (Ho:YAG) laser lithotripsy (LL) has been the tre
 </details>
         
 
-**Multiresponse Shape-Memory Nanocomposite with a Reversible Cycle for Powerful Artificial Muscles** (2021). *C. Chen, **Y. Liu**, X. He, H. Li, Y. Chen, Y. Wei, Y. Zhao, Y. Ma, Z. Chen, X. Zheng, H. Liu*. *Chem. Mater.* 33, 987--997.
+**Multiresponse shape-memory nanocomposite with a reversible cycle for powerful artificial muscles** (2021). *C. Chen, **Y. Liu**, X. He, H. Li, Y. Chen, Y. Wei, Y. Zhao, Y. Ma, Z. Chen, X. Zheng, H. Liu*. *Chem. Mater.* 33, 987--997.
 [![DOI: 10.1021/acs.chemmater.0c04170](https://img.shields.io/badge/DOI-10.1021/acs.chemmater.0c04170-blue.svg)](https://doi.org/10.1021/acs.chemmater.0c04170)
 
 <details>
@@ -71,7 +71,7 @@ In the ﬁeld of bionic soft robots and microrobots, artiﬁcial muscle material
 </details>
         
 
-**A Micromechanics-informed phase field model for brittle fracture accounting for unilateral constraint** (2020). ***Y. Liu**, C. Cheng, V. Ziaei-Rad, Y. Shen*. *Engineering Fracture Mechanics* , 107358.
+**A micromechanics-informed phase field model for brittle fracture accounting for unilateral constraint** (2020). ***Y. Liu**, C. Cheng, V. Ziaei-Rad, Y. Shen*. *Engineering Fracture Mechanics* , 107358.
 [![DOI: 10.1016/j.engfracmech.2020.107358](https://img.shields.io/badge/DOI-10.1016/j.engfracmech.2020.107358-blue.svg)](https://doi.org/10.1016/j.engfracmech.2020.107358)
 
 <details>
