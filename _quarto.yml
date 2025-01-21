@@ -5,6 +5,7 @@ project:
 website:
   title: "Yangyuanchen Liu"
   description: "Personal website of Yangyuanchen Liu"
+  favicon: "/media/name_icon.png"
   navbar:
     left:
       - href: index.qmd
@@ -36,8 +37,8 @@ website:
 format:
   html:
     theme: 
-      light: flatly
-      dark: darkly
+      light: Cosmo
+      dark: slate
     css: styles.css
     toc: true
     page-layout: full
