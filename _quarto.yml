@@ -32,7 +32,7 @@ website:
     background: light
     left: <span>{{< fa brands orcid >}} <strong>ORCID</strong> [0000-0002-7730-8287](https://orcid.org/0000-0002-7730-8287)
     center: © 2025 Yangyuanchen Liu
-    right: This website is built with [Github Pages](https://github.com/lyyc199586/lyyc199586.github.io) and [Quarto](https://quarto.org/)
+    right: This website is built with [Github Pages](https://pages.github.com/) and [Quarto](https://quarto.org/)
 
 format:
   html:
