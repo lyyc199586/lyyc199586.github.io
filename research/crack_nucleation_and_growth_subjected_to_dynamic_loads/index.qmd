@@ -1,0 +1,23 @@
+---
+title: "Crack Nucleation and Growth Subjected to Dynamic Loads"
+description: |
+  A comprehensive computational framework for simulating crack nucleation and growth in materials subjected to dynamic loads.
+author:
+  - name: Yangyuanchen Liu
+    url: https://lyyc199586.github.io/
+    orcid: 0000-0002-7730-8287
+date: 2025-01-26
+date-modified: last-modified
+bibliography: ../../publications/papers.bib
+categories: [Dynamic, Phase field, Crack nucleation, Material strength]
+image: ball3d.gif
+draft: false
+---
+
+- Ph.D. project at Dolbow Lab, Duke University
+- Developed with [RACCOON](https://hugary1995.github.io/raccoon/), an open-source finite-element code tailored for phase-field fracture modeling, built on the [MOOSE](https://mooseframework.inl.gov/) framework.
+- A comprehensive computational framework is developed for simulating crack nucleation and growth in materials subjected to dynamic loads. The framework  builds upon and extends recent advancements in phase-field models, incorporating an **arbitrary material strength** via an external driving force in the evolution equation for the phase field. The proposed framework  is validated against a broad range of benchmark problems and experimental observations in dynamic fracture.
+
+## Gallery
+
+![Fragmentation of a hollow sphere [@liu2024thesis;@liu2024arxiv]](./ball3d.gif){width="80%"}

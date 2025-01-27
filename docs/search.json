@@ -58,9 +58,9 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Yangyuanchen Liu",
+    "title": "Research",
     "section": "",
-    "text": "Ph.D. project at Dolbow Lab, Duke University\nDeveloped with RACCOON, an open-source finite-element code tailored for phase-field fracture modeling, built on the MOOSE framework.\n\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
+    "text": "Crack Nucleation and Growth Subjected to Dynamic Loads\n\n\n\nDynamic\n\n\nPhase field\n\n\nCrack nucleation\n\n\nMaterial strength\n\n\n\n\nJan 26, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -82,5 +82,40 @@
     "title": "Yangyuanchen Liu",
     "section": "",
     "text": "Ph.D. project at Dolbow Lab, Duke University\nDeveloped with RACCOON, an open-source finite-element code tailored for phase-field fracture modeling, built on the MOOSE framework.\n\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
+  },
+  {
+    "objectID": "research_legacy.html",
+    "href": "research_legacy.html",
+    "title": "Yangyuanchen Liu",
+    "section": "",
+    "text": "Ph.D. project at Dolbow Lab, Duke University\nDeveloped with RACCOON, an open-source finite-element code tailored for phase-field fracture modeling, built on the MOOSE framework.\n\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
+  },
+  {
+    "objectID": "research_legacy.html#crack-nucleation-and-growth-subjected-to-dynamic-loads",
+    "href": "research_legacy.html#crack-nucleation-and-growth-subjected-to-dynamic-loads",
+    "title": "Yangyuanchen Liu",
+    "section": "",
+    "text": "Ph.D. project at Dolbow Lab, Duke University\nDeveloped with RACCOON, an open-source finite-element code tailored for phase-field fracture modeling, built on the MOOSE framework.\n\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
+  },
+  {
+    "objectID": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html",
+    "href": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html",
+    "title": "Crack Nucleation and Growth Subjected to Dynamic Loads",
+    "section": "",
+    "text": "Ph.D. project at Dolbow Lab, Duke University\nDeveloped with RACCOON, an open-source finite-element code tailored for phase-field fracture modeling, built on the MOOSE framework.\nA comprehensive computational framework is developed for simulating crack nucleation and growth in materials subjected to dynamic loads. The framework builds upon and extends recent advancements in phase-field models, incorporating an arbitrary material strength via an external driving force in the evolution equation for the phase field. The proposed framework is validated against a broad range of benchmark problems and experimental observations in dynamic fracture."
+  },
+  {
+    "objectID": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html#numerical-results",
+    "href": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html#numerical-results",
+    "title": "Crack Nucleation and Growth Subjected to Dynamic Loads",
+    "section": "Numerical results:",
+    "text": "Numerical results:\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
+  },
+  {
+    "objectID": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html#gallery",
+    "href": "research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html#gallery",
+    "title": "Crack Nucleation and Growth Subjected to Dynamic Loads",
+    "section": "Gallery",
+    "text": "Gallery\n\n\n\nFragmentation of a hollow sphere (Liu 2024; Liu, Lopez-Pamies, and Dolbow 2024)"
   }
 ]
