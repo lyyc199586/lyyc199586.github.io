@@ -20,4 +20,4 @@ draft: false
 
 ## Gallery
 
-![Fragmentation of a hollow sphere [@liu2024thesis;@liu2024arxiv]](./ball3d.gif){width="80%"}
+![Fragmentation of a hollow sphere under internal pressure [@liu2024thesis;@liu2024arxiv]](./ball3d.mp4){width="100%"}
