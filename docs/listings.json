@@ -4,5 +4,11 @@
     "items": [
       "/posts/2025-01-19-quarto-blogs/index.html"
     ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/crack_nucleation_and_growth_subjected_to_dynamic_loads/index.html"
+    ]
   }
 ]

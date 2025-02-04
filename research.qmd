@@ -1,12 +1,11 @@
 ---
-# title: "Research"
-format: html
-bibliography: ./publications/papers.bib
+title: "Research"
+listing: 
+  contents: research # this name must match the name of the folder you created in step #1; here, all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or default/grid/table; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories 
+  fields:  [title, image, date, categories]
+  grid-columns: 1
+  image-height: 400px
 ---
-
-## Crack Nucleation and Growth Subjected to Dynamic Loads
-
-- Ph.D. project at Dolbow Lab, Duke University
-- Developed with [RACCOON](https://hugary1995.github.io/raccoon/), an open-source finite-element code tailored for phase-field fracture modeling, built on the [MOOSE](https://mooseframework.inl.gov/) framework.
-
-![Fragmentation of a hollow sphere [@liu2024thesis;@liu2024arxiv]](media/research/ball3d_in_out_contour.gif){width="60%"}
