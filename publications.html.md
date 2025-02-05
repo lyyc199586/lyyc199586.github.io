@@ -91,9 +91,9 @@ The multiscale simulation of heterogeneous materials is a popular and important 
         
 
 ## Presentations
-**A phase-field approach for the nucleation and propagation of dynamic cracks** (2023). ***Y. Liu**, O. Lopez-Pamies, J. E. Dolbow*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
+**A phase-field approach for the nucleation and propagation of dynamic cracks** (2024). ***Y. Liu**, O. Lopez-Pamies, J. E. Dolbow*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
 
-**The revisited phase-field approach to brittle fracture: application to the diametral compression and wing-crack problems** (2023). *A. Kumar, C. Liu, **Y. Liu**, J. Dolbow, O. Lopez-Pamies*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
+**The revisited phase-field approach to brittle fracture: application to the diametral compression and wing-crack problems** (2024). *A. Kumar, C. Liu, **Y. Liu**, J. Dolbow, O. Lopez-Pamies*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
 
 **A model-based simulation framework for coupled acoustics, elastodynamics, and damage with application to nano-pulse lithotripsy** (2023). ***Y. Liu**, P. Zhong, O. Lopez-Pamies, J. E. Dolbow*.  Presented at *the 17th United States National Congress on Computational Mechanics (USNCCM17)*, Albuquerque, New Mexico
 
