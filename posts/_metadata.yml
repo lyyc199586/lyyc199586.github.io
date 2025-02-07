@@ -5,3 +5,8 @@ freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: true
+
+comments:
+  giscus:
+    repo: lyyc199586/lyyc199586.github.io
+    category: Blog
