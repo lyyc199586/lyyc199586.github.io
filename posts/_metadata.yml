@@ -10,3 +10,7 @@ comments:
   giscus:
     repo: lyyc199586/lyyc199586.github.io
     category: Blog
+
+format: 
+  html:
+    toc: true
