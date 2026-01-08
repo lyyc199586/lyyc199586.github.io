@@ -8,7 +8,17 @@ echo: false
 ---
 
 
-## Papers
+## Publications and Preprints
+**Damage Sensing Digital Twin for Piezocomposites Integrating Neural Operator with Parametrically Upscaled Constitutive Damage Model** (2026). ***Y. Liu**, S. Ghosh*. *submitted* , .
+
+<details>
+<summary>Abstract</summary>
+
+Detection and tracking of structural damage under challenging operating conditions are integral to structural health monitoring (SHM) for improving structural reliability and reducing maintenance costs by preventing unwarranted catastrophic failures. Many currently used SHM practices are post-mortem-based and rely on sparse arrays of surface-mounted sensors that detect surface or near-surface damage states, but not those that evolve from the material's interior. In most cases, surface sensors detect cracks that may have already grown into a dominant failure mode from a subsurface location. To overcome these challenges, this paper develops a powerful deep learning-augmented Virtual Damage Sensing Digital Twin (VDS-DT) platform for piezoelectric composites. The platform integrates multiscale-multiphysics modeling, characteristic microstructure representation, and geometry-informed neural operator (GINO) in a bottom-up and top-down sequence to efficiently predict full-field damage evolution in the structure and underlying microstructure in real time, based on measurements at an optimal number and placement of surface-mounted sensors. The VDS-DT comprises three major ingredients, viz. (i) Parametrically Upscaled Coupled Constitutive Damage Model (PUCCDM), whose constitutive coefficients are explicit functions of the underlying Representative Aggregated Microstructural Parameters (RAMPs), (ii)  PUCCDM data-trained GINO that fuses location-specific RAMP fields with electric measurements at a sparse sensor network to reconstruct full field electromechanical and damage fields in structures of arbitrary geometries, and (iii) genetic algorithm (GA) optimized compact, informative sensor layouts. Spatio-temporally evolving damage predictions by the VDS-DT across multiple scales with a few sensors clearly demonstrate its high potential as a scalable, real-time SHM tool for engineering systems.
+
+</details>
+        
+
 **The strength of the Brazilian fracture test** (2024). *A. Kumar, **Y. Liu**, J. E. Dolbow, O. Lopez-Pamies*. *Journal of the Mechanics and Physics of Solids* 182, 105473.
 [![DOI: 10.1016/j.jmps.2023.105473](https://img.shields.io/badge/DOI-10.1016/j.jmps.2023.105473-blue.svg)](https://doi.org/10.1016/j.jmps.2023.105473)
 

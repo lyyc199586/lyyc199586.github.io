@@ -49,11 +49,17 @@ def generate_doi_badge(doi):
 
 # Start Content
 
-print("## Papers")
+print("## Publications and Preprints")
 
 # Load the BibTeX file
 with open("./publications/papers.bib", "r", encoding="utf-8") as bibtex_file:
     paper_database = bibtexparser.load(bibtex_file)
+
+# debug
+# print("N entries =", len(paper_database.entries))
+# print("Last 5 IDs =", [e.get("ID") for e in paper_database.entries[-5:]])
+# print("Has liu2026gino =", any(e.get("ID") == "liu2026gino" for e in paper_database.entries))
+
 
 with open("./publications/conferences.bib", "r", encoding="utf-8") as bibtex_file:
     pre_database = bibtexparser.load(bibtex_file)
