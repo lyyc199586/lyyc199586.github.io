@@ -121,6 +121,6 @@ for entry in sorted_pres:
         eventtitle_fmt = eventtitle
 
     # Format and display each publication
-    print(f"**{title}** ({year}). *{format_authors(author)}*.  Presented at *{eventtitle_fmt}*{note}, {location}\n")
+    print(f"**{title}** ({year}). *{format_authors(author)}*. *{eventtitle_fmt}*{note}, {location}.\n")
 ```
 

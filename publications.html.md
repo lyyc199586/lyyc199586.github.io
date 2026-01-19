@@ -101,21 +101,21 @@ The multiscale simulation of heterogeneous materials is a popular and important 
         
 
 ## Presentations
-**Virtual Damage Sensing Digital Twin for Piezocomposites Integrating Neural Operator with Parametrically Upscaled Constitutive Damage Model** (2026). *Y. Liu, S. Ghosh*.  Presented at *[HEMI Day 2026](https://hemi.jhu.edu/event/hemi-day/)* (Podium presentation), Baltimore, Maryland
+**Virtual Damage Sensing Digital Twin for Piezocomposites Integrating Neural Operator with Parametrically Upscaled Constitutive Damage Model** (2026). *Y. Liu, S. Ghosh*. *[HEMI Day 2026](https://hemi.jhu.edu/event/hemi-day/)* (Podium presentation), Baltimore, Maryland.
 
-**A phase-field approach for the nucleation and propagation of dynamic cracks** (2024). ***Y. Liu**, O. Lopez-Pamies, J. E. Dolbow*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
+**A phase-field approach for the nucleation and propagation of dynamic cracks** (2024). ***Y. Liu**, O. Lopez-Pamies, J. E. Dolbow*. *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada.
 
-**The revisited phase-field approach to brittle fracture: application to the diametral compression and wing-crack problems** (2024). *A. Kumar, C. Liu, **Y. Liu**, J. Dolbow, O. Lopez-Pamies*.  Presented at *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada
+**The revisited phase-field approach to brittle fracture: application to the diametral compression and wing-crack problems** (2024). *A. Kumar, C. Liu, **Y. Liu**, J. Dolbow, O. Lopez-Pamies*. *The 16th World Congress on Computational Mechanics (WCCM16)*, Vancouver, Canada.
 
-**A model-based simulation framework for coupled acoustics, elastodynamics, and damage with application to nano-pulse lithotripsy** (2023). ***Y. Liu**, P. Zhong, O. Lopez-Pamies, J. E. Dolbow*.  Presented at *the 17th United States National Congress on Computational Mechanics (USNCCM17)*, Albuquerque, New Mexico
+**A model-based simulation framework for coupled acoustics, elastodynamics, and damage with application to nano-pulse lithotripsy** (2023). ***Y. Liu**, P. Zhong, O. Lopez-Pamies, J. E. Dolbow*. *the 17th United States National Congress on Computational Mechanics (USNCCM17)* (Poster and oral presentation), Albuquerque, New Mexico.
 
-**Model-based simulations of pulsed laser ablation using a CutFEM method** (2022). ***Y. Liu**, S. Claus, P. Kerfriden, J. Chen, P. Zhong, J. E. Dolbow*.  Presented at *The 15th World Congress on Computational Mechanics (WCCM15)*, Yokohama, Japan
+**Model-based simulations of pulsed laser ablation using a CutFEM method** (2022). ***Y. Liu**, S. Claus, P. Kerfriden, J. Chen, P. Zhong, J. E. Dolbow*. *The 15th World Congress on Computational Mechanics (WCCM15)*, Yokohama, Japan.
 
-**A micromechanics-based phase field approach to fracture** (2019). ***Y. Liu**, C. Cheng, Y. Shen*.  Presented at *The 2nd International Conference of Mechanics of Advanced Materials and Structures*, Nanjing, China
+**A micromechanics-based phase field approach to fracture** (2019). ***Y. Liu**, C. Cheng, Y. Shen*. *The 2nd International Conference of Mechanics of Advanced Materials and Structures*, Nanjing, China.
 
-**A manifold learning approach for multiscale phase field evolution for fracture** (2019). ***Y. Liu**, K. Weng, Y. Shen*.  Presented at *The International Conference on Data Driven Computing and Machine Learning in Engineering*, Shanghai, China
+**A manifold learning approach for multiscale phase field evolution for fracture** (2019). ***Y. Liu**, K. Weng, Y. Shen*. *The International Conference on Data Driven Computing and Machine Learning in Engineering*, Shanghai, China.
 
-**A homogenization-based phase field approach to fracture** (2019). ***Y. Liu**, C. Cheng, Y. Shen*.  Presented at *the 15th United States National Congress on Computational Mechanics (USNCCM15)*, Austin, Texas
+**A homogenization-based phase field approach to fracture** (2019). ***Y. Liu**, C. Cheng, Y. Shen*. *the 15th United States National Congress on Computational Mechanics (USNCCM15)* (Poster and oral presentation), Austin, Texas.
 
 
 
