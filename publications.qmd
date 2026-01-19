@@ -112,8 +112,15 @@ for entry in sorted_pres:
     eventtitle = entry.get("eventtitle", "No Event")
     location = entry.get("location", "No Location")
     year = entry.get("date", "No Year")
+    note_raw = entry.get("note")
+    note = f" ({note_raw})" if note_raw else ""
+    url = entry.get("url")
+    if url:
+        eventtitle_fmt = f"[{eventtitle}]({url})"
+    else:
+        eventtitle_fmt = eventtitle
 
     # Format and display each publication
-    print(f"**{title}** ({year}). *{format_authors(author)}*.  Presented at *{eventtitle}*, {location}\n")
+    print(f"**{title}** ({year}). *{format_authors(author)}*.  Presented at *{eventtitle_fmt}*{note}, {location}\n")
 ```
 
