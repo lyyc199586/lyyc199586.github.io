@@ -91,7 +91,7 @@ for entry in sorted_papers:
     abstract = entry.get("abstract")
 
     # Format and display each publication
-    print(f"**{title}** ({year}). *{format_authors(author)}*. *{journal}* {volume}, {pages}.")
+    print(f"**{title}** ({year}). _{format_authors(author)}_. _{journal}_ {volume}, {pages}.")
     if doi:
         print(generate_doi_badge(doi))
     if abstract:
@@ -121,6 +121,6 @@ for entry in sorted_pres:
         eventtitle_fmt = eventtitle
 
     # Format and display each publication
-    print(f"**{title}** ({year}). *{format_authors(author)}*. *{eventtitle_fmt}*{note}, {location}.\n")
+    print(f"**{title}** ({year}). _{format_authors(author)}_. _{eventtitle_fmt}_{note}, {location}.\n")
 ```
 
