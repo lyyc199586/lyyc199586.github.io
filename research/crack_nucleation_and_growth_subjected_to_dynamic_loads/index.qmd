@@ -15,7 +15,7 @@ draft: false
 ---
 
 - Ph.D. project at Dolbow Lab, Duke University
-- Developed with [RACCOON](https://hugary1995.github.io/raccoon/), an open-source finite-element code tailored for phase-field fracture modeling, built on the [MOOSE](https://mooseframework.inl.gov/) framework.
+- Developed with [`RACCOON`](https://hugary1995.github.io/raccoon/), an open-source finite-element code tailored for phase-field fracture modeling, built on the [`MOOSE`](https://mooseframework.inl.gov/) framework.
 - A comprehensive computational framework is developed for simulating crack nucleation and growth in materials subjected to dynamic loads. The framework  builds upon and extends recent advancements in phase-field models, incorporating an **arbitrary material strength** via an external driving force in the evolution equation for the phase field. The proposed framework  is validated against a broad range of benchmark problems and experimental observations in dynamic fracture.
 
 ## Gallery

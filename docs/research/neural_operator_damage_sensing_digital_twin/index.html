@@ -7,10 +7,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Yangyuanchen Liu">
-<meta name="dcterms.date" content="2025-01-26">
-<meta name="description" content="A comprehensive computational framework for simulating crack nucleation and growth in materials subjected to dynamic loads.">
+<meta name="dcterms.date" content="2026-06-28">
+<meta name="description" content="A virtual damage sensing digital twin (VDS-DT) platform for piezoelectric composites, coupling a machine learning-enabled multiscale multiphysics model with Fourier neural operator (FNO) learning">
 
-<title>Crack Nucleation and Growth Subjected to Dynamic Loads – Yangyuanchen Liu</title>
+<title>Neural Operator-Based Damage Sensing Digital Twin – Yangyuanchen Liu</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -161,17 +161,16 @@ div.csl-indent {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Crack Nucleation and Growth Subjected to Dynamic Loads</h1>
+      <h1 class="title">Neural Operator-Based Damage Sensing Digital Twin</h1>
                   <div>
         <div class="description">
-          <p>A comprehensive computational framework for simulating crack nucleation and growth in materials subjected to dynamic loads.</p>
+          <p>A virtual damage sensing digital twin (VDS-DT) platform for piezoelectric composites, coupling a machine learning-enabled multiscale multiphysics model with Fourier neural operator (FNO) learning</p>
         </div>
       </div>
                           <div class="quarto-categories">
-                <div class="quarto-category">Dynamic</div>
-                <div class="quarto-category">Phase field</div>
-                <div class="quarto-category">Crack nucleation</div>
-                <div class="quarto-category">Material strength</div>
+                <div class="quarto-category">Neural operator</div>
+                <div class="quarto-category">Damage sensing</div>
+                <div class="quarto-category">Digital twin</div>
               </div>
                   </div>
   </div>
@@ -189,7 +188,7 @@ div.csl-indent {
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">January 26, 2025</p>
+        <p class="date">June 28, 2026</p>
       </div>
     </div>
     
@@ -223,16 +222,27 @@ div.csl-indent {
 
 
 <ul>
-<li>Ph.D.&nbsp;project at Dolbow Lab, Duke University</li>
-<li>Developed with <a href="https://hugary1995.github.io/raccoon/"><code>RACCOON</code></a>, an open-source finite-element code tailored for phase-field fracture modeling, built on the <a href="https://mooseframework.inl.gov/"><code>MOOSE</code></a> framework.</li>
-<li>A comprehensive computational framework is developed for simulating crack nucleation and growth in materials subjected to dynamic loads. The framework builds upon and extends recent advancements in phase-field models, incorporating an <strong>arbitrary material strength</strong> via an external driving force in the evolution equation for the phase field. The proposed framework is validated against a broad range of benchmark problems and experimental observations in dynamic fracture.</li>
+<li>Developed with <a href="https://neuraloperator.github.io/dev/index.html"><code>NeuralOperator</code></a>, a comprehensive <code>PyTorch</code> library for learning neural operators, containing the official implementation of Fourier Neural Operators and other neural operator architectures.</li>
+<li>Coupling a machine learning-enabled multiscale multiphysics model, viz.&nbsp;the Parametrically Upscaled Coupled Constitutive Damage Model (PUCCDM) with Fourier neural operator (FNO) learning, this work develops a Virtual Damage Sensing Digital Twin (VDS-DT) platform for piezoelectric composites. This platform interfaces with actual <strong>surface sensor measurements</strong> for efficient prediction of full-field temporally evolving deformation, electrical, and damage fields in the entire structure.</li>
 </ul>
 <section id="gallery" class="level2">
 <h2 class="anchored" data-anchor-id="gallery">Gallery</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><video src="./ball3d.mp4" class="img-fluid" style="width:100.0%" controls=""><a href="./ball3d.mp4">Video</a></video></p>
-<figcaption>Fragmentation of a hollow sphere under internal pressure <span class="citation" data-cites="liu2024thesis liu2024arxiv">(<a href="#ref-liu2024thesis" role="doc-biblioref">Liu 2024</a>; <a href="#ref-liu2024arxiv" role="doc-biblioref">Liu, Lopez-Pamies, and Dolbow 2024</a>)</span></figcaption>
+<p><img src="./vdsdt_flow.png" class="img-fluid figure-img" style="width:100.0%"></p>
+<figcaption>Hierarchical structure of a Fourier neural operator (FNO)-derived Virtual Damage Sensing Digital Twin (VDS-DT)for piezoelectric composites <span class="citation" data-cites="liu2026vdsdt">(<a href="#ref-liu2026vdsdt" role="doc-biblioref">Liu and Ghosh 2026</a>)</span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><video src="./panel_input.mp4" class="img-fluid" style="width:100.0%" controls=""><a href="./panel_input.mp4">Video</a></video></p>
+<figcaption>Input for operator learning <span class="citation" data-cites="liu2026vdsdt">(<a href="#ref-liu2026vdsdt" role="doc-biblioref">Liu and Ghosh 2026</a>)</span></figcaption>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><video src="./panel_output.mp4" class="img-fluid" style="width:100.0%" controls=""><a href="./panel_output.mp4">Video</a></video></p>
+<figcaption>Output for operator learning <span class="citation" data-cites="liu2026vdsdt">(<a href="#ref-liu2026vdsdt" role="doc-biblioref">Liu and Ghosh 2026</a>)</span></figcaption>
 </figure>
 </div>
 
@@ -241,11 +251,8 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-liu2024thesis" class="csl-entry" role="listitem">
-Liu, Yangyuanchen. 2024. <span>“A Computational Framework for Simulating Crack Nucleation and Growth in Materials Subjected to Dynamic Loads.”</span> <em>Duke University</em>. PhD thesis.
-</div>
-<div id="ref-liu2024arxiv" class="csl-entry" role="listitem">
-Liu, Yangyuanchen, Oscar Lopez-Pamies, and John E. Dolbow. 2024. <span>“On the Effects of Material Strength in Dynamic Fracture: A Phase-Field Study.”</span> <em>arXiv Preprint</em>. <a href="https://doi.org/10.48550/arXiv.2411.16393">https://doi.org/10.48550/arXiv.2411.16393</a>.
+<div id="ref-liu2026vdsdt" class="csl-entry" role="listitem">
+Liu, Yangyuanchen, and Somnath Ghosh. 2026. <span>“Neural Operator-Based Damage Sensing Digital Twin for Piezocomposites with Parametrically Upscaled Coupled Constitutive Damage Model.”</span> <em>Computer Methods in Applied Mechanics and Engineering</em> 461: 119169. https://doi.org/<a href="https://doi.org/10.1016/j.cma.2026.119169">https://doi.org/10.1016/j.cma.2026.119169</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

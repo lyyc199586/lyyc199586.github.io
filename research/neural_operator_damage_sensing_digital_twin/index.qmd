@@ -1,0 +1,26 @@
+---
+title: "Neural Operator-Based Damage Sensing Digital Twin"
+description: |
+  A virtual damage sensing digital twin (VDS-DT) platform for piezoelectric composites, coupling a machine learning-enabled multiscale multiphysics model with Fourier neural operator (FNO) learning.
+author:
+  - name: Yangyuanchen Liu
+    url: https://lyyc199586.github.io/
+    orcid: 0000-0002-7730-8287
+date: 2026-06-28
+date-modified: last-modified
+bibliography: ../../publications/papers.bib
+categories: [Neural operator, Damage sensing, Digital twin]
+image: vdsdt_flow.png
+draft: false
+---
+
+- Developed with [`NeuralOperator`](https://neuraloperator.github.io/dev/index.html), a comprehensive `PyTorch` library for learning neural operators, containing the official implementation of Fourier Neural Operators and other neural operator architectures.
+- Coupling a machine learning-enabled multiscale multiphysics model, viz. the Parametrically Upscaled Coupled Constitutive Damage Model (PUCCDM) with Fourier neural operator (FNO) learning, this work develops a Virtual Damage Sensing Digital Twin (VDS-DT) platform for piezoelectric composites. This platform interfaces with actual **surface sensor measurements** for efficient prediction of full-field temporally evolving deformation, electrical, and damage fields in the entire structure.
+
+## Gallery
+
+![Hierarchical structure of a Fourier neural operator (FNO)-derived Virtual Damage Sensing Digital Twin (VDS-DT)for piezoelectric composites [@liu2026vdsdt]](./vdsdt_flow.png){width="100%"}
+
+![Input for operator learning [@liu2026vdsdt]](./panel_input.mp4){width="100%"}
+
+![Output for operator learning [@liu2026vdsdt]](./panel_output.mp4){width="100%"}
