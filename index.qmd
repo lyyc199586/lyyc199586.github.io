@@ -16,7 +16,10 @@ about:
       href: https://github.com/lyyc199586
     - icon: envelope
       text: Email
-      href: yliu664@jh.ed
+      href: yliu664@jh.edu
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Ay-D1zgAAAAJ&hl
 ---
 
 Hi! I am **Yangyuanchen Liu** (刘杨元琛), a Postdoctoral Fellow in the Department of Civil and Systems Engineering at *Johns Hopkins University*, where I work under the mentorship of **Professor Somnath Ghosh**, a distinguished leader in computational mechanics and materials.

@@ -28,6 +28,9 @@ website:
       - icon: github
         href: https://github.com/lyyc199586/
         target: _blank
+      - icon: google
+        href: https://scholar.google.com/citations?user=Ay-D1zgAAAAJ&hl
+        target: _blank
   page-footer: 
     background: light
     left: <span>{{< fa brands orcid >}} <strong>ORCID</strong> [0000-0002-7730-8287](https://orcid.org/0000-0002-7730-8287)

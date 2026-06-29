@@ -12,6 +12,7 @@ echo: false
 #| output: asis
 
 import bibtexparser
+from urllib.parse import quote, urlparse
 
 def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
     """
@@ -41,11 +42,29 @@ def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
 
 def generate_doi_badge(doi):
     """
-    Generate a DOI badge with a hyperlink using shields.io.
+    Generate a clickable DOI badge using shields.io.
     """
-    badge_url = f"https://img.shields.io/badge/DOI-{doi}-blue.svg"
+    doi = doi.strip()
+
+    doi_for_badge = quote(doi, safe="")
+    badge_url = f"https://img.shields.io/static/v1?label=DOI&message={doi_for_badge}&color=blue"
     doi_url = f"https://doi.org/{doi}"
+
     return f"[![DOI: {doi}]({badge_url})]({doi_url})"
+
+def generate_url_badge(url):
+    """
+    Generate a clickable URL badge using shields.io.
+    """
+    url = url.strip()
+
+    parsed = urlparse(url)
+    display_url = parsed.netloc if parsed.netloc else url.split("/")[0]
+    display_url_for_badge = quote(display_url, safe="")
+
+    badge_url = f"https://img.shields.io/static/v1?label=URL&message={display_url_for_badge}&color=blue"
+
+    return f"[![URL: {display_url}]({badge_url})]({url})"
 
 # Start Content
 
@@ -88,12 +107,15 @@ for entry in sorted_papers:
     number = entry.get("number", "")
     pages = entry.get("pages", "")
     doi = entry.get("doi", "")
+    url = entry.get("url", "")
     abstract = entry.get("abstract")
 
     # Format and display each publication
     print(f"**{title}** ({year}). _{format_authors(author)}_. _{journal}_ {volume}, {pages}.")
     if doi:
         print(generate_doi_badge(doi))
+    elif url:
+        print(generate_url_badge(url))
     if abstract:
         print(f"""
 <details>
