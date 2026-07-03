@@ -14,10 +14,18 @@ echo: false
 import bibtexparser
 from urllib.parse import quote, urlparse
 
-def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
+def format_authors(authors_raw, highlight_names=("Liu, Yangyuanchen", "Yangyuanchen Liu")):
     """
     Convert authors' full names into initials format and bold the specified name.
     """
+    def normalize_name(name):
+        parts = name.strip().split(", ")
+        if len(parts) == 2:
+            lastname, firstname = parts
+            return f"{firstname} {lastname}".lower()
+        return " ".join(name.strip().split()).lower()
+
+    highlighted = {normalize_name(name) for name in highlight_names}
     formatted_authors = []
     authors = authors_raw.split(" and ")  # Split multiple authors
     for author in authors:
@@ -35,7 +43,7 @@ def format_authors(authors_raw, highlight_name="Liu, Yangyuanchen"):
             formatted_name = f"{initials} {lastname}"
         
         # Bold the specified name
-        if author.strip() == highlight_name.strip():
+        if normalize_name(author) in highlighted:
             formatted_name = f"**{formatted_name}**"
         formatted_authors.append(formatted_name)
     return ", ".join(formatted_authors)
