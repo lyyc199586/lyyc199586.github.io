@@ -83,6 +83,15 @@ A model of thermal ablation with application to multi-pulsed laser lithotripsy i
 </details>
         
 
+**A micromechanics-informed phase field model for brittle fracture accounting for unilateral constraint** (2021). _**Y. Liu**, C. Cheng, V. Ziaei-Rad, Y. Shen_. _Engineering Fracture Mechanics_ 241, 107358.
+[![DOI: https://doi.org/10.1016/j.engfracmech.2020.107358](https://img.shields.io/static/v1?label=DOI&message=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.engfracmech.2020.107358&color=blue)](https://doi.org/https://doi.org/10.1016/j.engfracmech.2020.107358)
+
+<details>
+<summary>Abstract</summary>
+We propose a new direction-dependent model for the unilateral constraint involved in the phase field approach to fracture and also in the continuous damage mechanics models. The construction of this phase field model is informed by micromechanical modeling through the homogenization theory, where the representative volume element (RVE) has a planar crack in the center. The proposed model is made closely match the response of the RVE, including the frictionless self-contact condition. This homogenization approach allows to identify a direction-dependent phase field model with the tension–compression split obtained from cracked microstructures. One important feature of the proposed model is that unlike most other models, the material degradation is consistently determined without artificial assumptions or ad hoc parameters with no physical interpretation, thus, a more realistic modeling is resulted. With standard tests such as uniaxial loadings, three-point bending, simple shear, and through-crack tests, the proposed model predicts reasonable crack paths. Moreover, with the RVE response as a benchmark, the proposed model gives rise to an accurate stress–strain curve under shear loads, more accurate than most existing models.
+</details>
+        
+
 **Multiresponse shape-memory nanocomposite with a reversible cycle for powerful artificial muscles** (2021). _C. Chen, **Y. Liu**, X. He, H. Li, Y. Chen, Y. Wei, Y. Zhao, Y. Ma, Z. Chen, X. Zheng, H. Liu_. _Chem. Mater._ 33, 987--997.
 [![DOI: 10.1021/acs.chemmater.0c04170](https://img.shields.io/static/v1?label=DOI&message=10.1021%2Facs.chemmater.0c04170&color=blue)](https://doi.org/10.1021/acs.chemmater.0c04170)
 
@@ -98,15 +107,6 @@ In the ﬁeld of bionic soft robots and microrobots, artiﬁcial muscle material
 <details>
 <summary>Abstract</summary>
 The multiscale simulation of heterogeneous materials is a popular and important subject in solid mechanics and materials science due to the wide application of composite materials. However, the classical FE$^2$ (finite element$^2$) scheme can be costly, especially when the microproblem is nonlinear. In this paper, we consider the case when the microproblem is the phase field formulation for fracture. We adopt the locally linear embedding (LLE) manifold learning approach, a method for non-linear dimension reduction, to extract the manifold that contains a collection of phase-field-represented initial microcrack patterns in the representative volume element (RVE). Then the output data corresponding to any other microcrack pattern, e.g., the evolved phase field at a fixed load, can be accurately reconstructed using the learned manifold with minimum computation. The method has two features: a minimum number of parameters for the scheme, and an input-specific error bar. The latter feature enables an adaptive strategy for any new input on whether to use the proposed, less expensive reconstruction, or to use an accurate but costly high-fidelity computation instead.
-</details>
-        
-
-**A micromechanics-informed phase field model for brittle fracture accounting for unilateral constraint** (2020). _**Y. Liu**, C. Cheng, V. Ziaei-Rad, Y. Shen_. _Engineering Fracture Mechanics_ , 107358.
-[![DOI: 10.1016/j.engfracmech.2020.107358](https://img.shields.io/static/v1?label=DOI&message=10.1016%2Fj.engfracmech.2020.107358&color=blue)](https://doi.org/10.1016/j.engfracmech.2020.107358)
-
-<details>
-<summary>Abstract</summary>
-We propose a new direction-dependent model for the unilateral constraint involved in the phase field approach to fracture and also in the continuous damage mechanics models. The construction of this phase field model is informed by micromechanical modeling through the homogenization theory, where the representative volume element (RVE) has a planar crack in the center. The proposed model is made closely match the response of the RVE, including the frictionless self-contact condition. This homogenization approach allows to identify a direction-dependent phase field model with the tension-compression split obtained from cracked microstructures. One important feature of the proposed model is that unlike most other models, the material degradation is consistently determined without artificial assumptions or ad hoc parameters with no physical interpretation, thus, a more realistic modeling is resulted. With standard tests such as uniaxial loadings, three-point bending, simple shear, and through-crack tests, the proposed model predicts reasonable crack paths. Moreover, with the RVE response as a benchmark, the proposed model gives rise to an accurate stress-strain curve under shear loads, more accurate than most existing models.
 </details>
         
 
